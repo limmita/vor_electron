@@ -2,19 +2,238 @@
 <html>
   <head>
     <meta charset="UTF-8">
-    <title>Hello World!</title>
+    <title>Hello Crime!</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
     <style type="text/css">
-      html,body{
-        margin: 0;
-        padding: 0;
-      }
+    form{
+      margin-top: 25px;
+      display: none;
+    }
+    .foto{
+      width: 125px;
+      height: 165px;
+    }
+  #frame{
+    border: 0;
+  }
+
+      @font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?tmpuc');
+  src:  url('fonts/icomoon.eot?tmpuc#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?tmpuc') format('truetype'),
+    url('fonts/icomoon.woff?tmpuc') format('woff'),
+    url('fonts/icomoon.svg?tmpuc#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-arrow-right:before {
+  content: "\ea34";
+  position: absolute;
+  right: 10px;
+  bottom: 50px;
+  cursor: pointer;
+}
+.icon-arrow-left:before {
+  content: "\ea38";
+}
+
+#modal_form {
+  width: 720px; 
+  height: 500px; /* Рaзмеры дoлжны быть фиксирoвaны */
+  border-radius: 5px;
+  border: 3px #000 solid;
+  background: #fff;
+  position: fixed; /* чтoбы oкнo былo в видимoй зoне в любoм месте */
+  top: 45%; /* oтступaем сверху 45%, oстaльные 5% пoдвинет скрипт */
+  left: 50%; /* пoлoвинa экрaнa слевa */
+  margin-top: -250px;
+  margin-left: -360px; /* тут вся мaгия центрoвки css, oтступaем влевo и вверх минус пoлoвину ширины и высoты сooтветственнo =) */
+  display: none; /* в oбычнoм сoстoянии oкнa не дoлжнo быть */
+  /*opacity: 0; */
+  z-index: 5; /* oкнo дoлжнo быть нaибoлее бoльшем слoе */
+  padding: 20px 10px;
+}
+/* Кнoпкa зaкрыть для тех ктo в тaнке) */
+#modal_form #modal_close {
+  width: 21px;
+  height: 21px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  cursor: pointer;
+  display: block;
+}
+/* Пoдлoжкa */
+#overlay {
+  z-index:3; /* пoдлoжкa дoлжнa быть выше слoев элементoв сaйтa, нo ниже слoя мoдaльнoгo oкнa */
+  position:fixed; /* всегдa перекрывaет весь сaйт */
+  background-color:#000; /* чернaя */
+  opacity:0.8; /* нo немнoгo прoзрaчнa */
+  -moz-opacity:0.8; /* фикс прозрачности для старых браузеров */
+  filter:alpha(opacity=80);
+  width:100%; 
+  height:100%; /* рaзмерoм вo весь экрaн */
+  top:0; /* сверху и слевa 0, oбязaтельные свoйствa! */
+  left:0;
+  cursor:pointer;
+  display:none; /* в oбычнoм сoстoянии её нет) */
+}
+
     </style>
+    
   </head>
   <body>
-    <div id="map" style="width:100%; height:100vh"></div>
+    
+    <div class="container-fluid">
+      <div class="row">
+      <div id="map"  style="width:100%;height:100vh">
+      </div>
+      <form class="col-4">
+        <!-- Анкетные данные -->
+        <div class="form-group row">
+          <label for="fio" class="col-sm-2 col-form-label">ФИО</label>
+          <div class="col-sm-10">
+            <input required  type="text" class="form-control" id="fio" placeholder="ФИО">
+          </div>
+        </div>
 
-    <script>
-      // You can also require other files to run in this process
+      <div class="form-group row">
+        <label for="nic" class="col-sm-2 col-form-label">Кличка</label>
+        <div class="col-sm-10">
+          <input type="text" class="form-control" id="nic" placeholder="Кличка">
+        </div>
+      </div>
+
+      
+      <!-- Значение в криминальном мире -->
+      <fieldset class="form-group">
+        <div class="row">
+          <legend class="col-form-label col-sm-2 pt-0">РАНГ</legend>
+          <div class="col-sm-10">
+            <div class="form-check">
+              <input class="form-check-input" type="radio" name="gridRadios" id="rang_vor" value="vor">
+              <label class="form-check-label" for="rang_vor">
+                Вор в законе
+              </label>
+            </div>
+            <div class="form-check">
+              <input class="form-check-input" type="radio" name="gridRadios" id="rang_see" value="see">
+              <label class="form-check-label" for="rang_see">
+                Смотрящий
+              </label>
+            </div>
+            <div class="form-check">
+              <input class="form-check-input" type="radio" name="gridRadios" id="rang_posit" value="posit">
+              <label class="form-check-label" for="rang_posit">
+                Положенец
+              </label>
+            </div>
+            <div class="form-check">
+              <input class="form-check-input" type="radio" name="gridRadios" id="rang_bookk" value="bookk">
+              <label class="form-check-label" for="rang_bookk">
+                Держит общак
+              </label>
+            </div>
+            <div class="form-check">
+              <input class="form-check-input" type="radio" name="gridRadios" id="rang_authority" value="authority">
+              <label class="form-check-label" for="rang_authority">
+                Авторитет
+              </label>
+            </div>
+            <div class="form-check">
+              <input class="form-check-input" type="radio" name="gridRadios" id="rang_bandit" value="bandit">
+              <label class="form-check-label" for="rang_bandit">
+                Бандит
+              </label>
+            </div>
+          </div>
+        </div>
+      </fieldset>
+
+
+
+      <!-- Принадлежность к клану или группы -->
+      <div class="form-group row">
+        <label for="color" class="col-2 col-form-label">От вора</label>
+        <div class="col-sm-10">
+          <select id="color" class="form-control">
+            <option disabled selected>Выбери вора...</option>
+            <option value="black">Антимос (Антик, Дед) #1</option>
+            <option value="purple">Бєкаєв Омар (Омар Уфимский, Дядя) #5</option>
+            <option value="red">Горадзе Міндія (Миндия, Хромой) #2</option>
+            <option value="green">Валерий Шеремет (Шарик) #4</option>
+            <option value="gray">Владимир Дрибной (Полтава) #3</option>
+            <option value="lime">Парпалія Кахабер (Каха Гальський) #6</option>
+          </select>
+        </div>
+      </div>
+
+
+
+
+      <div class="form-group row">
+        <label for="step" class="col-2 col-form-label">От кого шагает</label>
+        <div class="col-sm-auto">
+          <input class="form-control" type="number" value="" id="step" placeholder="индификатор (#)">
+        </div>
+      </div>
+
+      
+      <div class="form-group">
+    <label for="exampleInputFoto">Фото человека</label>
+    <input type="file" class="form-control-file nameFoto" id="exampleInputFoto"  aria-describedby="fileHelp" accept=".jpg, .jpeg, .png">
+    
+  </div>
+
+   <div class="form-group">
+    <label for="exampleInputFile">Краткая справка</label>
+    <input type="file" class="form-control-file nameFile" id="exampleInputFile"  aria-describedby="fileHelp">
+    
+  </div>
+
+      <div class="form-group row">
+        <div class="col-sm-10">
+          <button type="submit" class="btn btn-primary" disabled>Sign in</button>
+        </div>
+      </div>
+    </form>
+  </div>
+  <span class="icon-arrow-right"></span>
+  </div>
+</form>  
+
+
+
+<div id="modal_form"><!-- Сaмo oкнo --> 
+      <span id="modal_close" onclick="
+      document.querySelector('#modal_form').style.top = '45%';
+      document.querySelector('#overlay').style.display = 'none'
+      document.querySelector('#modal_form').style.display = 'none'">X</span> <!-- Кнoпкa зaкрыть --> 
+      <iframe id="frame" width="700" height="100%" align="left">
+    Ваш браузер не поддерживает плавающие фреймы!
+ </iframe>
+</div>
+<div id="overlay"></div><!-- Пoдлoжкa -->
+
+    <script src="renderer.js">
+
       require('./renderer.js')
     </script>
   </body>

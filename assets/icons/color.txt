@@ -1,0 +1,3 @@
+#800080	Purple
+FF00FF Lime
+808080 Gray
