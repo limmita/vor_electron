@@ -37,3 +37,308 @@
 {"_id":37,"lat":"48.095","lng":"29.107","fio":"Алекчук Віталій Вікторович","nic":"Малий","rang":"bandit","color":"blue","step":"","foto":"foto/37.png","file":"file/37.htm"}
 {"_id":38,"lat":"48.093","lng":"29.118","fio":"Вальтер Денис Леонідович","nic":"Немец","rang":"bandit","color":"blue","step":"","foto":"foto/38.png","file":"file/38.htm"}
 {"_id":39,"lat":48.09436233616626,"lng":29.12904739379883,"fio":"Гордієнко Віктор Іванович","nic":"Гордый","rang":"bandit","color":"blue","step":"","foto":"foto/39.png","file":"file/39.htm"}
+{"_id":40,"lat":46.44366801750986,"lng":30.75877904891968,"fio":"Алієв Назір Байрам-Огли","nic":"","rang":"authority","color":"lime","step":"6","foto":"foto/40.png","file":"file/40.htm"}
+{"_id":41,"lat":46.47283255623605,"lng":30.684760808944706,"fio":"Пірвердієв Баладжа Сайяф Огли","nic":"","rang":"authority","color":"lime","step":"6","foto":"foto/41.png","file":"file/41.htm"}
+{"_id":42,"lat":46.58209364734894,"lng":30.802810192108158,"fio":"Мірзоєв Садик Ясир-Огли","nic":"Садик","color":"lime","step":"6","foto":"foto/42.png","file":"file/42.htm"}
+{"_id":43,"lat":"46.562","lng":"30.796","fio":"Мірзоєв Ясін Ясір Огли","nic":"","rang":"authority","color":"lime","step":"42","foto":"foto/43.png","file":"file/43.htm"}
+{"_id":44,"lat":46.5872700079738,"lng":30.77128887176514,"fio":"Кононов Нестор Олександрович","nic":"Нестор","rang":"bandit","color":"lime","step":"42","foto":"foto/44.jpg","file":"file/44.htm"}
+{"_id":45,"lat":46.49178556172595,"lng":30.71212470531464,"fio":"Гусейн Ельдар Абдул – Ахмедов","nic":"","rang":"bandit","color":"lime","step":"42","foto":"foto/45.jpg","file":"file/45.htm"}
+{"_id":46,"lat":46.399736543733724,"lng":30.721732378005985,"fio":"Мамедов Єлвін Назір Огли","nic":"","rang":"bandit","color":"lime","step":"42","foto":"foto/46.jpg","file":"file/46.htm"}
+{"_id":47,"lat":46.59833632308577,"lng":30.79524636268616,"fio":"Пронюк Андрій Васильович","nic":"Кеша","rang":"bandit","color":"lime","step":"42","foto":"foto/47.jpg","file":"file/47.htm"}
+{"_id":48,"lat":46.59321262731396,"lng":30.80598592758179,"fio":"Дібіров Саід Дібірович","nic":"","color":"lime","step":"42","foto":"foto/48.png","file":"file/48.htm"}
+{"_id":49,"lat":46.49923419472087,"lng":30.720777511596683,"fio":"Білий Олександр Павлович","nic":"","rang":"bandit","color":"lime","step":"42","foto":"foto/49.jpg","file":"file/49.htm"}
+{"_id":50,"lat":46.57002461397911,"lng":30.80371677875519,"fio":"Шамілов Сархан Ферхад","nic":"Сархан","rang":"bandit","color":"lime","step":"42","foto":"foto/50.png","file":"file/50.htm"}
+{"_id":51,"lat":46.583435714230774,"lng":30.8112645149231,"fio":"Спіцин Дмитро Олегович","nic":"","rang":"bandit","color":"lime","step":"42","foto":"foto/51.jpg","file":"file/51.htm"}
+{"_id":52,"lat":46.57951265612228,"lng":30.807402133941654,"fio":"Василенко Олександр Олександрович","nic":"","rang":"bandit","color":"lime","step":"42","foto":"foto/52.jpg","file":"file/52.htm"}
+{"_id":53,"lat":46.561788990168246,"lng":30.803105235099796,"fio":"Валієв Сахіл Саркар-огли","nic":"","rang":"bandit","color":"lime","step":"42","foto":"foto/53.jpg","file":"file/53.htm"}
+{"_id":54,"lat":46.56617803621294,"lng":30.78802585601807,"fio":"Новіков Вячеслав","nic":"","rang":"bandit","color":"lime","step":"42","foto":"foto/54.jpg","file":"file/54.htm"}
+{"_id":55,"lat":"46.573","lng":"30.793","fio":"Карапетов Аміран Аміранович","nic":"Сивий","rang":"bandit","color":"lime","step":"42","foto":"foto/55.png","file":"file/55.htm"}
+{"_id":56,"lat":46.43343529507546,"lng":30.73687076568604,"fio":"Багірова Заур Сейран Огли","nic":"","rang":"bandit","color":"lime","step":"42","foto":"foto/56.png","file":"file/56.htm"}
+{"_id":57,"lat":46.43330219787619,"lng":30.738201141357425,"fio":"Багіров Теймур Сейран Огли","nic":"","rang":"bandit","color":"lime","step":"42","foto":"foto/57.png","file":"file/57.htm"}
+{"_id":58,"lat":"46.581","lng":"30.799","fio":"Алишов Халіг","nic":"","rang":"bandit","color":"lime","step":"42","foto":"foto/58.png","file":"file/58.htm"}
+{"_id":59,"lat":46.580168976969006,"lng":30.792821645736698,"fio":"Бехбудов Раман Рафік Огли","nic":"","color":"lime","step":"42","foto":"foto/59.png","file":"file/59.htm"}
+{"_id":60,"lat":46.53845100766553,"lng":30.716528892517093,"fio":"Багіров Замін Бакір Огли","nic":"","rang":"bandit","color":"lime","step":"42","foto":"foto/60.jpg","file":"file/60.htm"}
+{"_id":61,"lat":46.53862074783659,"lng":30.71637868881226,"fio":"Агаєв Інтікам Субю Огли","nic":"","rang":"bandit","color":"lime","step":"42","foto":"foto/61.jpg","file":"file/61.htm"}
+{"_id":62,"lat":46.583361975154766,"lng":30.805943012237552,"fio":"Ахмедов Ельмір Ельшад Огли","nic":"","rang":"bandit","color":"lime","step":"42","foto":"foto/62.jpg","file":"file/62.htm"}
+{"_id":63,"lat":46.583295609900624,"lng":30.806200504302982,"fio":"Ахмедов Самир Ельшад Огли","nic":"","rang":"bandit","color":"lime","step":"42","foto":"foto/63.jpg","file":"file/63.htm"}
+{"_id":64,"lat":46.581334111260624,"lng":30.80228447914124,"fio":"Аббасов Орхан Захід Огли","nic":"","rang":"bandit","color":"lime","step":"42","foto":"foto/64.jpg","file":"file/64.htm"}
+{"_id":65,"lat":46.575250064476506,"lng":30.800063610076908,"fio":"Карімов Самір Нусрат Огли","nic":"","rang":"bandit","color":"lime","step":"42","foto":"foto/65.jpg","file":"file/65.htm"}
+{"_id":66,"lat":46.579202928918555,"lng":30.80802440643311,"fio":"Багіров Рамал Назір Огли","nic":"","rang":"bandit","color":"lime","step":"42","foto":"foto/66.jpg","file":"file/66.htm"}
+{"_id":67,"lat":46.583369349066885,"lng":30.800315737724308,"fio":"Ахмедов Джафар Ельданіс Огли","nic":"","rang":"bandit","color":"lime","step":"42","foto":"foto/67.jpg","file":"file/67.htm"}
+{"_id":68,"lat":46.583553696543774,"lng":30.80044984817505,"fio":"Ахмедов Джахід Ельданіс Огли","nic":"","rang":"bandit","color":"lime","step":"42","foto":"foto/68.jpg","file":"file/68.htm"}
+{"_id":69,"lat":46.57083962563547,"lng":30.791180133819584,"fio":"Садигов Абдулазім Ілхам Огли","nic":"","rang":"bandit","color":"lime","step":"42","foto":"foto/69.jpg","file":"file/69.htm"}
+{"_id":70,"lat":46.43350554068845,"lng":30.736699104309086,"fio":"Казімов Ісмаіл Камал Огли","nic":"","rang":"bandit","color":"lime","step":"42","foto":"foto/70.jpg","file":"file/70.htm"}
+{"_id":71,"lat":46.47685937556629,"lng":30.759733915328983,"fio":"Кухілава Нурі Антимозович","nic":"","rang":"see","color":"black","step":"1","foto":"foto/71.png","file":"file/71.htm"}
+{"_id":72,"lat":46.476800268446524,"lng":30.745217800140384,"fio":"Крівцун Юрій Олександрович","nic":"Юра Кривий, Крекет","rang":"authority","color":"black","step":"71","foto":"foto/72.png","file":"file/72.htm"}
+{"_id":73,"lat":46.45663360569349,"lng":30.75657963752747,"fio":"Аракелян Арутюн Деренікович","nic":"Фокусник","rang":"posit","color":"black","step":"1","foto":"foto/73.png","file":"file/73.htm"}
+{"_id":74,"lat":46.45516275062372,"lng":30.748168230056766,"fio":"Ходілін Всеволод Сергійович","nic":"","rang":"authority","color":"black","step":"7","foto":"","file":"file/74.htm"}
+{"_id":75,"lat":46.57054460020575,"lng":30.79079926013947,"fio":"Мурачашвілі Мамука Тимурович","nic":"Мамука","rang":"see","color":"black","step":"1","foto":"foto/75.png","file":"file/75.htm"}
+{"_id":76,"lat":46.460602498762775,"lng":30.744885206222538,"fio":"Закалашвілі Георгій Михайлович","nic":"Гоша","rang":"authority","color":"black","step":"1","foto":"foto/76.png","file":"file/76.htm"}
+{"_id":77,"lat":46.40646908250186,"lng":30.721507072448734,"fio":"Ісмайлов Джавид Назим-огли","nic":"Джавид","rang":"posit","color":"lime","step":"6","foto":"foto/77.png","file":"file/77.htm"}
+{"_id":78,"lat":46.19266555785525,"lng":30.302524566650394,"fio":"Чебан Клімом Олександровичем","nic":"","rang":"authority","color":"blue","step":"","foto":"foto/78.jpg","file":""}
+{"_id":79,"lat":46.19254672761724,"lng":30.30784606933594,"fio":"Чебан Глібом Олександровичем","nic":"","rang":"bandit","color":"blue","step":"78","foto":"foto/79.jpg","file":""}
+{"_id":80,"lat":46.55198427555492,"lng":30.759487152099613,"fio":"Колісниченко Артур Степанович","nic":"","rang":"see","color":"red","step":"8","foto":"foto/80.jpg","file":"file/80.htm"}
+{"_id":81,"lat":46.403790963298526,"lng":30.72887778282166,"fio":"Гапоненко Дмитро Миколайович","nic":"Гапон","rang":"authority","color":"red","step":"8","foto":"foto/81.jpg","file":"file/81.htm"}
+{"_id":82,"lat":46.46714278067356,"lng":30.726522803306583,"fio":"Русов Григорій Григорович","nic":"Буля, Руся","rang":"authority","color":"red","step":"8","foto":"foto/82.png","file":"file/82.htm"}
+{"_id":83,"lat":46.48858348080987,"lng":30.206394195556644,"fio":"Ахмедов Ельшан Шараслан Огли","nic":"Алдаш","rang":"authority","color":"red","step":"8","foto":"foto/83.jpg","file":"file/83.htm"}
+{"_id":84,"lat":46.46854680654239,"lng":30.719307661056522,"fio":"Шевченко Володимир Георгійович","nic":"Шушарик","rang":"authority","color":"red","step":"8","foto":"foto/84.png","file":"file/84.htm"}
+{"_id":85,"lat":46.436123049508645,"lng":30.707457661628727,"fio":"Чумаков Олександр Михайлович","nic":"Манюня","rang":"bandit","color":"red","step":"8","foto":"foto/85.png","file":"file/85.htm"}
+{"_id":86,"lat":46.47594320799527,"lng":30.71089625358582,"fio":"Горадзе Звіад Анзоровича","nic":"","rang":"authority","color":"red","step":"2","foto":"foto/86.jpg","file":"file/86.htm"}
+{"_id":87,"lat":46.476127920440554,"lng":30.710928440093998,"fio":"Горадзе Анзор Юсупович","nic":"","rang":"bandit","color":"red","step":"2","foto":"foto/87.png","file":"file/87.htm"}
+{"_id":88,"lat":46.57128216077104,"lng":30.79577207565308,"fio":"Гвинцадзе Олександр Шотович","nic":"","rang":"posit","color":"black","step":"1","foto":"foto/88.png","file":"file/88.htm"}
+{"_id":89,"lat":46.43231874738536,"lng":30.753682851791385,"fio":"Фомінов Андрій Миколайович","nic":"Фома","rang":"authority","color":"black","step":"1","foto":"foto/89.jpg","file":"file/89.htm"}
+{"_id":90,"lat":46.4535588081059,"lng":30.751912593841556,"fio":"Цецхаладзе Давід Зіаєвич","nic":"","rang":"bandit","color":"black","step":"1","foto":"foto/90.jpg","file":"file/90.htm"}
+{"_id":91,"lat":46.47997718511576,"lng":30.686842203140262,"fio":"Піпія Ромео Напоевич","nic":"","rang":"bandit","color":"black","step":"1","foto":"foto/91.jpg","file":"file/91.htm"}
+{"_id":92,"lat":46.57340627915974,"lng":30.79678058624268,"fio":"Гогічашвілі Гоча Михайлович","nic":"","rang":"bandit","color":"black","step":"1","foto":"foto/92.jpg","file":"file/92.htm"}
+{"_id":93,"lat":46.554647732955935,"lng":30.76356410980225,"fio":"Главацький Давід","nic":"","rang":"bandit","color":"black","step":"1","foto":"foto/93.jpg","file":"file/93.htm"}
+{"_id":94,"lat":46.56864164762688,"lng":30.78972101211548,"fio":"Наріндошвілі Ілья Наскідович","nic":"","rang":"bandit","color":"black","step":"75","foto":"foto/94.jpg","file":"file/94.htm"}
+{"_id":95,"lat":46.438359662936406,"lng":30.7103705406189,"fio":"Бурдужа Руслан Олександрович","nic":"Акульонок","rang":"see","color":"green","step":"4","foto":"foto/95.jpg","file":"file/95.htm"}
+{"_id":96,"lat":46.426380695590666,"lng":30.709286928176883,"fio":"Колєв Дем’ян Миколайович","nic":"","rang":"see","color":"green","step":"4","foto":"foto/96.png","file":"file/96.htm"}
+{"_id":97,"lat":45.89574303912447,"lng":28.851299285888675,"fio":"Колєв Олександр Миколайович","nic":"","rang":"authority","color":"green","step":"96","foto":"foto/97.jpg","file":"file/97.htm"}
+{"_id":98,"lat":45.74572492177667,"lng":28.608398437500004,"fio":"Дімітров Євгеній Анатолійович","nic":"","rang":"authority","color":"green","step":"96","foto":"foto/98.png","file":"file/98.htm"}
+{"_id":99,"lat":47.93405671030359,"lng":29.62394714355469,"fio":"Ковальов Валерій  Геннадійович","nic":"Валера Балтський","rang":"bookk","color":"green","step":"4","foto":"foto/99.jpg","file":"file/99.htm"}
+{"_id":100,"lat":47.75848338716458,"lng":29.525756835937504,"fio":"Крецул Сергій Семенович","nic":"Сьома","rang":"see","color":"green","step":"4","foto":"foto/100.jpg","file":"file/100.htm"}
+{"_id":101,"lat":46.85549565938302,"lng":30.074729919433597,"fio":"Косташ Дмитро Олександрович","nic":"","rang":"authority","color":"green","step":"4","foto":"foto/101.png","file":"file/101.htm"}
+{"_id":102,"lat":46.53146906088904,"lng":30.73736429214478,"fio":"Гукасян Оганез Саветович","nic":"Оганез","rang":"see","color":"purple","step":"5","foto":"foto/102.jpg","file":"file/102.htm"}
+{"_id":103,"lat":46.48941079543941,"lng":30.735626220703125,"fio":"Беліков Сергій Вікторович","nic":"Беля","rang":"posit","color":"purple","step":"102","foto":"foto/103.png","file":"file/103.htm"}
+{"_id":104,"lat":46.45978213676331,"lng":30.75579643249512,"fio":"Пайзулаєв Саід Усман Алієвич","nic":"","rang":"authority","color":"purple","step":"102","foto":"foto/104.jpg","file":"file/104.htm"}
+{"_id":105,"lat":46.45627883021683,"lng":30.75882196426392,"fio":"Францужан (Лямін) Віктор Васильович","nic":"Вітя - француз","rang":"see","color":"purple","step":"5","foto":"foto/105.png","file":"file/105.htm"}
+{"_id":106,"lat":"46.440","lng":"30.725","fio":"Гюмюшлю Валентин Борисович","nic":"Тайсон","rang":"see","color":"purple","step":"5","foto":"foto/106.png","file":"file/106.htm"}
+{"_id":107,"lat":46.476105754980225,"lng":30.730454921722416,"fio":"Златін Олександр Юрійович","nic":"Хірург","rang":"posit","color":"purple","step":"4","foto":"foto/107.png","file":"file/107.htm"}
+{"_id":108,"lat":46.46536922254839,"lng":30.754165649414066,"fio":"Айдаміров Султанбек Вахаєвич","nic":"Султан","rang":"see","color":"blue","step":"","foto":"foto/108.jpg","file":"file/108.htm"}
+{"_id":109,"lat":46.390605598003454,"lng":30.72431802749634,"fio":"Айдаміров Асланбек Русланович","nic":"","rang":"authority","color":"blue","step":"108","foto":"foto/109.jpg","file":"file/109.htm"}
+{"_id":110,"lat":46.57272775038412,"lng":30.78799366950989,"fio":"Айдаміров Магамєд Гіланієвич","nic":"Мага-Борода","rang":"authority","color":"blue","step":"108","foto":"foto/110.jpg","file":"file/110.htm"}
+{"_id":111,"lat":46.48957330219157,"lng":30.711636543273926,"fio":"Шепель Валерій Георгійович","nic":"","rang":"authority","color":"blue","step":"108","foto":"foto/111.jpg","file":"file/111.htm"}
+{"_id":112,"lat":46.48613839706254,"lng":30.738887786865238,"fio":"Фурман Михайло Євгенович","nic":"Малець","rang":"authority","color":"blue","step":"108","foto":"foto/112.png","file":"file/112.htm"}
+{"_id":113,"lat":46.4315127484129,"lng":30.70660471916199,"fio":"Поляков Олег Олегович","nic":"","rang":"bandit","color":"blue","step":"108","foto":"foto/113.jpg","file":"file/113.htm"}
+{"_id":114,"lat":46.43767944641822,"lng":30.70210933685303,"fio":"Мирошниченко (Здержко) Сергій Анатолійович","nic":"","rang":"bandit","color":"blue","step":"108","foto":"foto/114.jpg","file":"file/114.htm"}
+{"_id":115,"lat":46.49178186854628,"lng":30.735754966735843,"fio":"Поздняков Андрій Володимирович","nic":"","rang":"authority","color":"blue","step":"108","foto":"foto/115.jpg","file":"file/115.htm"}
+{"_id":116,"lat":46.470275925477935,"lng":30.61621427536011,"fio":"Карастан Петро Васильович","nic":"","rang":"bandit","color":"blue","step":"108","foto":"foto/116.png","file":"file/116.htm"}
+{"_id":117,"lat":46.46065423288897,"lng":30.754895210266117,"fio":"Абазов Халід Харонович","nic":"","rang":"bandit","color":"blue","step":"108","foto":"foto/117.jpg","file":"file/117.htm"}
+{"_id":118,"lat":46.43596408010131,"lng":30.727171897888187,"fio":"Ісаєв Умар Борисович","nic":"","rang":"bandit","color":"blue","step":"108","foto":"foto/118.png","file":"file/118.htm"}
+{"_id":119,"lat":46.41979853738563,"lng":30.742009878158573,"fio":"Ісаєв Дауд Умарович","nic":"","rang":"bandit","color":"blue","step":"108","foto":"foto/119.jpg","file":"file/119.htm"}
+{"_id":120,"lat":46.40827414944661,"lng":30.753425359725952,"fio":"Ісаєв Елі  Умарович","nic":"","color":"blue","step":"108","foto":"foto/120.png","file":"file/120.htm"}
+{"_id":121,"lat":46.411358900174314,"lng":30.72681248188019,"fio":"Ль’янов Аслан Саюпович ","nic":"","rang":"bandit","color":"blue","step":"108","foto":"foto/121.png","file":"file/121.htm"}
+{"_id":122,"lat":46.39886347235974,"lng":30.64249992370606,"fio":"Клименко Євген Олександрович","nic":"","rang":"bandit","color":"blue","step":"108","foto":"foto/122.png","file":"file/122.htm"}
+{"_id":123,"lat":46.48013233210955,"lng":30.557613372802738,"fio":"Поліщук Юрій Юрійович","nic":"","rang":"bandit","color":"blue","step":"108","foto":"foto/123.png","file":"file/123.htm"}
+{"_id":124,"lat":46.44984442806287,"lng":30.710043311119083,"fio":"Давлетшин Марат Айдарович","nic":"","rang":"bandit","color":"blue","step":"108","foto":"foto/124.png","file":"file/124.htm"}
+{"_id":125,"lat":46.477284206100435,"lng":30.713245868682865,"fio":"Поляков Євген Ігорович","nic":"","rang":"bandit","color":"blue","step":"108","foto":"foto/125.png","file":"file/125.htm"}
+{"_id":126,"lat":46.40214111724161,"lng":30.71185111999512,"fio":"Тупікин Олександр Володимирович","nic":"","rang":"bandit","color":"blue","step":"108","foto":"foto/126.png","file":"file/126.htm"}
+{"_id":127,"lat":"46.441","lng":"30.752","fio":"Чконія Нукзар Жоржович","nic":"","rang":"see","color":"gray","step":"3","foto":"foto/127.jpg","file":"file/127.htm"}
+{"_id":128,"lat":46.574291303935105,"lng":30.778101682662967,"fio":"Курбанов Ельдар Гюльахмед Огли","nic":"","rang":"authority","color":"gray","step":"3","foto":"foto/128.jpg","file":"file/128.htm"}
+{"_id":129,"lat":46.42231316353914,"lng":30.75552821159363,"fio":"Васильєв Ігор Юрійович","nic":"Сіля","rang":"authority","color":"gray","step":"3","foto":"foto/129.jpg","file":"file/129.htm"}
+{"_id":130,"lat":46.42745299439779,"lng":30.74961662292481,"fio":"Мусаєв Халід Абдул Вахітович","nic":"","rang":"authority","color":"blue","step":"","foto":"foto/130.png","file":"file/130.htm"}
+{"_id":131,"lat":46.475204351944434,"lng":30.727601051330566,"fio":"Сівкович Євген В'ячеславович","nic":"Слон","rang":"authority","color":"blue","step":"130","foto":"foto/131.png","file":"file/131.htm"}
+{"_id":132,"lat":46.429212997748756,"lng":30.753382444381717,"fio":"Камінський Максим Леонідович","nic":"","rang":"bandit","color":"blue","step":"130","foto":"foto/132.jpg","file":"file/132.htm"}
+{"_id":133,"lat":46.4340046516473,"lng":30.71584224700928,"fio":"Ознієв Султан Мастерович ","nic":"","rang":"bandit","color":"blue","step":"","foto":"foto/133.png","file":"file/133.htm"}
+{"_id":134,"lat":46.58317025308777,"lng":30.547485351562504,"fio":"Субботінов (Туштаров) Увайс Усманович","nic":"","rang":"authority","color":"blue","step":"","foto":"foto/134.png","file":"file/134.htm"}
+{"_id":135,"lat":46.476563839325514,"lng":30.724414587020878,"fio":"Туштаров Беслан Усманович","nic":"","rang":"authority","color":"blue","step":"","foto":"foto/135.png","file":"file/135.htm"}
+{"_id":136,"lat":46.453743596517995,"lng":30.686069726943973,"fio":"Айрапетян Армен Жораєвич","nic":"","rang":"authority","color":"blue","step":"130","foto":"foto/136.png","file":"file/136.htm"}
+{"_id":137,"lat":46.479260548022275,"lng":30.74959516525269,"fio":"Асаєв Адам Усамович","nic":"Адам","rang":"authority","color":"blue","step":"130","foto":"foto/137.jpg","file":"file/137.htm"}
+{"_id":138,"lat":46.474964221567916,"lng":30.74079215526581,"fio":"Гашаєв Шаутдін Мусламовіч","nic":"Шах","rang":"authority","color":"blue","step":"130","foto":"foto/138.jpg","file":"file/138.htm"}
+{"_id":139,"lat":46.386328179053756,"lng":30.72658181190491,"fio":"Хаціев Асхаб Ахметович","nic":"","rang":"authority","color":"blue","step":"130","foto":"foto/139.png","file":"file/139.htm"}
+{"_id":140,"lat":46.391848798770475,"lng":30.73333024978638,"fio":"Канаев Анзор Вахаевич","nic":"","rang":"bandit","color":"blue","step":"130","foto":"foto/140.jpg","file":"file/140.htm"}
+{"_id":141,"lat":45.458444953661896,"lng":28.282585144042972,"fio":"Усамов Ахмед Алієвич ","nic":"","rang":"authority","color":"blue","step":"130","foto":"foto/141.png","file":"file/141.htm"}
+{"_id":142,"lat":46.48658162281589,"lng":30.72334170341492,"fio":"Магдієв Магомед Газімагомедовіч","nic":"Мага Спорт","rang":"authority","color":"blue","step":"","foto":"foto/142.png","file":"file/142.htm"}
+{"_id":143,"lat":46.44897585489366,"lng":30.743780136108402,"fio":"Магдієвим Гаджи Газімагомедович","nic":"","color":"blue","step":"142","foto":"foto/143.png","file":"file/143.htm"}
+{"_id":144,"lat":46.38003724814714,"lng":30.71885704994202,"fio":"Магдієвим Харімогомед Газімагомедовичем","nic":"","rang":"authority","color":"blue","step":"142","foto":"foto/144.png","file":"file/144.htm"}
+{"_id":145,"lat":46.40122369246794,"lng":30.745764970779422,"fio":"Адбулазімов Сулейман Султанович","nic":"","rang":"authority","color":"blue","step":"","foto":"foto/145.jpg","file":"file/145.htm"}
+{"_id":146,"lat":46.578952196076855,"lng":30.860295295715336,"fio":"Закрієва Ахмеда Мумадієвича","nic":"","rang":"authority","color":"blue","step":"","foto":"foto/146.jpg","file":"file/146.htm"}
+{"_id":147,"lat":46.57862771656057,"lng":30.85917949676514,"fio":"Закарієв Юсуп Магомедович","nic":"","rang":"authority","color":"blue","step":"","foto":"foto/147.jpg","file":"file/147.htm"}
+{"_id":148,"lat":46.40096473913527,"lng":30.720659494400028,"fio":"Канаєв Аслан Вахаєвич","nic":"","rang":"authority","color":"blue","step":"","foto":"foto/148.png","file":"file/148.htm"}
+{"_id":149,"lat":46.44119873584597,"lng":30.72036445140839,"fio":"Магомєдов Шаміль Магомед Расулович","nic":"","rang":"authority","color":"blue","step":"","foto":"foto/149.png","file":"file/149.htm"}
+{"_id":150,"lat":46.48593894429534,"lng":30.74012160301209,"fio":"Дончаєв Султан Ум-Пашаєвич","nic":"","rang":"authority","color":"blue","step":"","foto":"foto/150.jpg","file":"file/150.htm"}
+{"_id":151,"lat":46.40381315819685,"lng":30.718481540679935,"fio":"Закрієв Магомед Хасмагомедович","nic":"","rang":"authority","color":"blue","step":"","foto":"foto/151.png","file":"file/151.htm"}
+{"_id":152,"lat":46.48033180616583,"lng":30.72461843490601,"fio":"Арбієв Ібрагім Алієвич","nic":"Тарзан","rang":"authority","color":"blue","step":"","foto":"foto/152.png","file":"file/152.htm"}
+{"_id":153,"lat":46.437413272425744,"lng":30.703225135803226,"fio":"Чагаєв Салман Хасаєвич","nic":"","rang":"authority","color":"blue","step":"","foto":"foto/153.png","file":"file/153.htm"}
+{"_id":154,"lat":46.566296056077825,"lng":30.839352607727054,"fio":"Келоєв Мурад Мусаєвич","nic":"","rang":"authority","color":"blue","step":"","foto":"foto/154.jpg","file":"file/154.htm"}
+{"_id":155,"lat":"46.463","lng":"30.712","fio":"Келоєв Муслім Мусаєвич","nic":"","rang":"authority","color":"blue","step":"","foto":"foto/155.jpg","file":"file/155.htm"}
+{"_id":156,"lat":46.44533139266573,"lng":30.698837041854862,"fio":"Дончаєв Алік Умар-Алієвич","nic":"","rang":"authority","color":"blue","step":"","foto":"foto/156.jpg","file":"file/156.htm"}
+{"_id":157,"lat":46.42782274771624,"lng":30.73630213737488,"fio":"Сугаїпов Рамзан Лечічевич","nic":"","rang":"authority","color":"blue","step":"","foto":"foto/157.png","file":"file/157.htm"}
+{"_id":158,"lat":46.45365489815842,"lng":30.738705396652225,"fio":"Дашикаєв Ільяс Юсупович","nic":"","rang":"bandit","color":"blue","step":"157","foto":"foto/158.png","file":"file/158.htm"}
+{"_id":159,"lat":46.45659295445405,"lng":30.722901821136478,"fio":"Забарьов Зейліхман Алєєвич","nic":"","rang":"bandit","color":"blue","step":"157","foto":"foto/159.png","file":"file/159.htm"}
+{"_id":160,"lat":46.460499030362946,"lng":30.755007863044742,"fio":"Пайзулаєв Магомед Сулейманович","nic":"","rang":"bandit","color":"blue","step":"157","foto":"foto/160.png","file":"file/160.htm"}
+{"_id":161,"lat":46.45661143229391,"lng":30.750635862350464,"fio":"Ярічев Убайда  Рувайдович","nic":"","rang":"bandit","color":"blue","step":"157","foto":"foto/161.png","file":"file/161.htm"}
+{"_id":162,"lat":46.442100702002406,"lng":30.749777555465702,"fio":"Омаров Султан Алі Магомедович","nic":"","rang":"bandit","color":"blue","step":"","foto":"foto/162.jpg","file":"file/162.htm"}
+{"_id":163,"lat":46.47184981931604,"lng":30.737396478652958,"fio":"Алапаєв Бібулат Рамазанович","nic":"","rang":"authority","color":"blue","step":"","foto":"foto/163.png","file":"file/163.htm"}
+{"_id":164,"lat":46.43727279118327,"lng":30.697216987609867,"fio":"Льянов Ваха Алієвич","nic":"","rang":"authority","color":"blue","step":"","foto":"foto/164.png","file":"file/164.htm"}
+{"_id":165,"lat":46.46967739052418,"lng":30.671038627624515,"fio":"Арсланов Магомед Салам Мухтарович","nic":"","color":"blue","step":"","foto":"foto/165.png","file":"file/165.htm"}
+{"_id":166,"lat":46.46035121802208,"lng":30.755120515823368,"fio":"Пайзулаєв Саід-Усман Алієвич","nic":"","rang":"authority","color":"blue","step":"","foto":"foto/166.jpg","file":"file/166.htm"}
+{"_id":167,"lat":46.41019011826862,"lng":30.74485301971436,"fio":"Пайзулаєв Сулейман Алієвич","nic":"","rang":"authority","color":"blue","step":"","foto":"foto/167.png","file":"file/167.htm"}
+{"_id":168,"lat":46.38015567236437,"lng":30.718975067138675,"fio":"Хасанов Тимур Хасанович","nic":"","rang":"authority","color":"blue","step":"","foto":"foto/168.png","file":"file/168.htm"}
+{"_id":169,"lat":46.45525883784618,"lng":30.75303912162781,"fio":"Саламов Мурат Сайдаєвич","nic":"","rang":"authority","color":"blue","step":"","foto":"foto/169.jpg","file":"file/169.htm"}
+{"_id":170,"lat":"46.392","lng":"30.744","fio":"Ісаєв Анзор Атхоєвич","nic":"","rang":"authority","color":"blue","step":"","foto":"foto/170.png","file":"file/170.htm"}
+{"_id":171,"lat":46.436171109935856,"lng":30.716485977172855,"fio":"Магомедов Омар Магомедович","nic":"","rang":"authority","color":"blue","step":"","foto":"foto/171.png","file":"file/171.htm"}
+{"_id":172,"lat":46.53734399353522,"lng":30.667090415954593,"fio":"Ібрагімов Наіб Узер-огли","nic":"Коля Звер","rang":"authority","color":"blue","step":"","foto":"foto/172.png","file":"file/172.htm"}
+{"_id":173,"lat":46.402969745713,"lng":30.71063876152039,"fio":"Ісаєв Ельчін Гусейн-огли","nic":"Волосатий","rang":"authority","color":"blue","step":"","foto":"foto/173.jpg","file":"file/173.htm"}
+{"_id":174,"lat":46.38530687721014,"lng":30.7333517074585,"fio":"Астанов Джалил Азиз-огли","nic":"","rang":"bandit","color":"blue","step":"","foto":"foto/174.png","file":"file/174.htm"}
+{"_id":175,"lat":46.43779774555309,"lng":30.72407126426697,"fio":"Османов Вугар Фархад огли","nic":"","color":"blue","step":"","foto":"foto/175.jpg","file":"file/175.htm"}
+{"_id":176,"lat":46.41118136529559,"lng":30.710005760192875,"fio":"Османов Вусал Фархад огли","nic":"","rang":"bandit","color":"blue","step":"","foto":"foto/176.jpg","file":"file/176.htm"}
+{"_id":177,"lat":46.539366122306646,"lng":30.626771450042728,"fio":"Омаров Араз Шараф-огли","nic":"Дід, Алік","rang":"bandit","color":"blue","step":"","foto":"foto/177.png","file":"file/177.htm"}
+{"_id":178,"lat":46.437531572138475,"lng":30.72389423847199,"fio":"Мамедов Арзу Зели-огли","nic":"","rang":"bandit","color":"blue","step":"","foto":"foto/178.png","file":"file/178.htm"}
+{"_id":179,"lat":46.4181935535907,"lng":30.727676153182987,"fio":"Гулієв Рафіг Арастун огли","nic":"","rang":"bandit","color":"blue","step":"","foto":"foto/179.jpg","file":"file/179.htm"}
+{"_id":180,"lat":46.47431032270992,"lng":30.74031472206116,"fio":"Аббасов Шахін Гасан огли","nic":"","rang":"bandit","color":"blue","step":"","foto":"foto/180.png","file":"file/180.htm"}
+{"_id":181,"lat":46.574999313356386,"lng":30.775494575500492,"fio":"Махмудов Раміз Махмуд огли","nic":"Рома","rang":"bandit","color":"blue","step":"","foto":"foto/181.jpg","file":"file/181.htm"}
+{"_id":182,"lat":46.45644882708781,"lng":30.755002498626713,"fio":"Гаджиєв Газанфар Мамед Сафа огли","nic":"","rang":"bandit","color":"blue","step":"","foto":"foto/182.jpg","file":"file/182.htm"}
+{"_id":183,"lat":46.43951305414749,"lng":30.713288784027103,"fio":"Мамедов Аміл Шаміл","nic":"","rang":"bandit","color":"blue","step":"","foto":"foto/183.png","file":"file/183.htm"}
+{"_id":184,"lat":46.57863509111658,"lng":30.808560848236088,"fio":"Мірзалієев Садиг Ілхамі огли","nic":"","rang":"bandit","color":"blue","step":"","foto":"foto/184.jpg","file":"file/184.htm"}
+{"_id":185,"lat":46.38026669483471,"lng":30.71239829063416,"fio":"Шамілов Ельдар Фархад огли","nic":"","rang":"bandit","color":"blue","step":"","foto":"foto/185.jpg","file":"file/185.htm"}
+{"_id":186,"lat":46.48132547158795,"lng":30.734714269638065,"fio":"Назаров Ельвін Ельдар огли","nic":"","rang":"bandit","color":"blue","step":"","foto":"foto/186.jpg","file":"file/186.htm"}
+{"_id":187,"lat":46.44739390732412,"lng":30.749766826629642,"fio":"Мусаєв Турал Алья","nic":"","rang":"bandit","color":"blue","step":"","foto":"foto/187.jpg","file":"file/187.htm"}
+{"_id":188,"lat":46.379711580225376,"lng":30.712323188781742,"fio":"Мамедов Руслан Замеддін","nic":"","rang":"bandit","color":"blue","step":"","foto":"foto/188.jpg","file":"file/188.htm"}
+{"_id":189,"lat":46.43350184355317,"lng":30.719763636589054,"fio":"Бехбудов Канан Мукафат огли","nic":"","rang":"bandit","color":"blue","step":"","foto":"foto/189.png","file":"file/189.htm"}
+{"_id":190,"lat":46.01770767332727,"lng":29.663085937500004,"fio":"Білалов Алім Ельдарович","nic":"","rang":"bandit","color":"blue","step":"","foto":"foto/190.png","file":"file/190.htm"}
+{"_id":191,"lat":"47.836","lng":"30.260","fio":"Гвінцадзе Олександр Шотович","nic":"Саша Грузин","rang":"posit","color":"red","step":"2","foto":"foto/191.jpg","file":"file/191.htm"}
+{"_id":192,"lat":47.78178908571313,"lng":30.376167297363285,"fio":"Шевченко Микола Миколайович","nic":"Матерый","rang":"authority","color":"red","step":"191","foto":"foto/192.png","file":"file/192.htm"}
+{"_id":193,"lat":46.38991738540203,"lng":30.722247362136844,"fio":"Назаренко Леонід Андрійович","nic":"","rang":"bandit","color":"blue","step":"191","foto":"foto/193.jpg","file":"file/193.htm"}
+{"_id":194,"lat":47.84035330156615,"lng":30.276260375976566,"fio":"Подолян Олексій Володимирович","nic":"","rang":"bandit","color":"red","step":"191","foto":"foto/194.jpg","file":"file/194.htm"}
+{"_id":195,"lat":46.39190799810065,"lng":30.72706460952759,"fio":"Друзь Віталій Вікторович, ","nic":"","rang":"bandit","color":"red","step":"191","foto":"foto/195.jpg","file":"file/195.htm"}
+{"_id":196,"lat":47.72893244672812,"lng":29.952507019042972,"fio":"Ляховський Валерій Васильович","nic":"","rang":"bandit","color":"red","step":"191","foto":"foto/196.jpg","file":"file/196.htm"}
+{"_id":197,"lat":46.46567590443956,"lng":30.706964135169986,"fio":"Білий Сергій Григорович","nic":"","rang":"bandit","color":"red","step":"191","foto":"foto/197.jpg","file":"file/197.htm"}
+{"_id":198,"lat":46.44730519862339,"lng":30.69717407226563,"fio":"Пашков Олександр Олександрович","nic":"","rang":"bandit","color":"red","step":"191","foto":"foto/198.png","file":"file/198.htm"}
+{"_id":199,"lat":47.732396315327,"lng":29.932937622070316,"fio":"Швець Михайло Валерійович","nic":"","rang":"bandit","color":"blue","step":"","foto":"foto/199.jpg","file":"file/199.htm"}
+{"_id":200,"lat":47.72639212999743,"lng":29.978942871093754,"fio":"Ткаченко Олександр Олександрович","nic":"","rang":"bandit","color":"blue","step":"","foto":"foto/200.jpg","file":"file/200.htm"}
+{"_id":201,"lat":47.7206182220987,"lng":29.93705749511719,"fio":"Тігінян Костянтин Станіславович","nic":"","rang":"bandit","color":"blue","step":"","foto":"foto/201.png","file":"file/201.htm"}
+{"_id":202,"lat":47.73470543306706,"lng":29.95044708251953,"fio":"Берестенко Юрій Юрійович","nic":"Шика","rang":"bandit","color":"blue","step":"","foto":"foto/202.png","file":"file/202.htm"}
+{"_id":203,"lat":47.719001413201916,"lng":29.952507019042972,"fio":"Вакаренко Андрій Михайлович","nic":"","rang":"bandit","color":"blue","step":"","foto":"foto/203.png","file":"file/203.htm"}
+{"_id":204,"lat":47.73216539792135,"lng":29.964866638183597,"fio":"Дікусар Олександр Миколайович","nic":"","rang":"bandit","color":"blue","step":"","foto":"foto/204.jpg","file":"file/204.htm"}
+{"_id":205,"lat":47.719925310144,"lng":29.96726989746094,"fio":"Дрібнохід Іван Анатолійович","nic":"","rang":"bandit","color":"blue","step":"","foto":"foto/205.png","file":"file/205.htm"}
+{"_id":206,"lat":47.725699294840474,"lng":29.92950439453125,"fio":"Капет Роман Анатолійович","nic":"","rang":"bandit","color":"blue","step":"","foto":"foto/206.png","file":"file/206.htm"}
+{"_id":207,"lat":47.74278653881655,"lng":29.95010375976563,"fio":"Коваль Геннадій Леонідович","nic":"","rang":"bandit","color":"blue","step":"","foto":"foto/207.png","file":"file/207.htm"}
+{"_id":208,"lat":47.712187167274436,"lng":29.95233535766602,"fio":"Колесник Павло Станіславович","nic":"Сава","rang":"bandit","color":"blue","step":"","foto":"foto/208.png","file":"file/208.htm"}
+{"_id":209,"lat":47.7260457135709,"lng":29.987869262695312,"fio":"Кулик Володимир Іванович","nic":"Соцький","rang":"bandit","color":"blue","step":"","foto":"foto/209.png","file":"file/209.htm"}
+{"_id":210,"lat":47.72523739961604,"lng":29.920749664306644,"fio":"Марченко Юрій Олександрович","nic":"Конуна","rang":"bandit","color":"blue","step":"","foto":"foto/210.png","file":"file/210.htm"}
+{"_id":211,"lat":47.73793802588287,"lng":29.96452331542969,"fio":"Мирза Сергій Федорович","nic":"","rang":"bandit","color":"blue","step":"","foto":"foto/211.jpg","file":"file/211.htm"}
+{"_id":212,"lat":47.73228085675216,"lng":29.974479675292972,"fio":"Наумкін Сергій Юрійович","nic":"","rang":"bandit","color":"blue","step":"","foto":"foto/212.png","file":"file/212.htm"}
+{"_id":213,"lat":47.72523739961604,"lng":29.965724945068363,"fio":"Поросятківський В’ячеслав Юрійович","nic":"","rang":"bandit","color":"blue","step":"","foto":"foto/213.png","file":"file/213.htm"}
+{"_id":214,"lat":47.72015628181953,"lng":29.97825622558594,"fio":"Поросятківський Юрій Борисович","nic":"","rang":"bandit","color":"blue","step":"","foto":"foto/214.jpg","file":"file/214.htm"}
+{"_id":215,"lat":47.737129896493514,"lng":29.938259124755863,"fio":"Рєутов Віталій Вікторович","nic":"","rang":"bandit","color":"blue","step":"","foto":"foto/215.png","file":"file/215.htm"}
+{"_id":216,"lat":45.9964846059059,"lng":29.42276000976563,"fio":"Кренциглов Валерій Станіславович","nic":"Крен","rang":"see","color":"black","step":"1","foto":"foto/216.jpg","file":"file/216.htm"}
+{"_id":217,"lat":45.99660385936587,"lng":29.4294548034668,"fio":"Шаповал Сергій Федорович","nic":"Шапік","rang":"bookk","color":"black","step":"216","foto":"foto/217.jpg","file":"file/217.htm"}
+{"_id":218,"lat":45.99541131320119,"lng":29.435119628906254,"fio":"Димов Анатолій Васильович","nic":"","rang":"authority","color":"blue","step":"","foto":"foto/218.jpg","file":"file/218.htm"}
+{"_id":219,"lat":45.9927876211754,"lng":29.426021575927738,"fio":"Мавров Сергій Анатолійович","nic":"Марік","rang":"authority","color":"blue","step":"","foto":"foto/219.jpg","file":"file/219.htm"}
+{"_id":220,"lat":46.00018134366129,"lng":29.42499160766602,"fio":"Кісеоларь Роман Васильович","nic":"Капуш","rang":"bandit","color":"blue","step":"","foto":"foto/220.jpg","file":"file/220.htm"}
+{"_id":221,"lat":47.93267656434812,"lng":29.61570739746094,"fio":"Онофраш Деоніс Юрійович","nic":"Шахтер, Яша","rang":"authority","color":"blue","step":"","foto":"foto/221.jpg","file":"file/221.htm"}
+{"_id":222,"lat":47.932216507510454,"lng":29.63047027587891,"fio":"Білий Олександр Сергійович","nic":"Білий","rang":"bandit","color":"blue","step":"","foto":"foto/222.jpg","file":"file/222.htm"}
+{"_id":223,"lat":47.92980114196311,"lng":29.62394714355469,"fio":"Ставратій Володимир Васильович","nic":"","rang":"bandit","color":"blue","step":"","foto":"foto/223.png","file":"file/223.htm"}
+{"_id":224,"lat":47.936586882217306,"lng":29.61793899536133,"fio":"Зайцев Ігор Олегович","nic":"Заяц","rang":"bandit","color":"blue","step":"","foto":"foto/224.jpg","file":"file/224.htm"}
+{"_id":225,"lat":47.936126860169225,"lng":29.630126953125004,"fio":"Камнєв Микола Миколайович","nic":"Каляня","rang":"bandit","color":"blue","step":"","foto":"foto/225.jpg","file":"file/225.htm"}
+{"_id":226,"lat":47.939116930322,"lng":29.62343215942383,"fio":"Назарко Анатолій Вадимович ","nic":"Толстолоб","rang":"bandit","color":"blue","step":"","foto":"foto/226.png","file":"file/226.htm"}
+{"_id":227,"lat":47.939116930322,"lng":29.627895355224613,"fio":"Кузнєцов Фелікс Володимирович","nic":"Феля","rang":"bandit","color":"blue","step":"","foto":"foto/227.jpg","file":"file/227.htm"}
+{"_id":228,"lat":47.939576925766616,"lng":29.616050720214847,"fio":"Малєєв Сергій Станіславович","nic":"Конь","rang":"bandit","color":"blue","step":"","foto":"foto/228.jpg","file":"file/228.htm"}
+{"_id":229,"lat":47.75225138174104,"lng":29.544982910156254,"fio":"Маслов Роман Владимирович ","nic":"","rang":"bandit","color":"blue","step":"","foto":"foto/229.jpg","file":"file/229.htm"}
+{"_id":230,"lat":47.9284208824286,"lng":29.62995529174805,"fio":"Жиляк Степан Васильович","nic":"","rang":"bandit","color":"blue","step":"","foto":"foto/230.jpg","file":"file/230.htm"}
+{"_id":231,"lat":47.934286731048225,"lng":29.61021423339844,"fio":"Бордан Максим Олександрович","nic":"","rang":"authority","color":"blue","step":"","foto":"foto/231.png","file":"file/231.htm"}
+{"_id":232,"lat":47.94417665510892,"lng":29.624118804931644,"fio":"Остапенко Вадим Юрійович ","nic":"","rang":"bandit","color":"blue","step":"","foto":"foto/232.jpg","file":"file/232.htm"}
+{"_id":233,"lat":46.19052657426052,"lng":30.338401794433597,"fio":"Кобальчинський Сергій Анатолійович","nic":"Кабан","rang":"see","color":"green","step":"4","foto":"foto/233.png","file":"file/233.htm"}
+{"_id":234,"lat":46.19361619050986,"lng":30.32758712768555,"fio":"Дубінін Денис Володимирович","nic":"","rang":"bandit","color":"green","step":"233","foto":"foto/234.jpg","file":"file/234.htm"}
+{"_id":235,"lat":46.02390613373389,"lng":30.361747741699222,"fio":"Болцану Юрій Валерійович","nic":"","rang":"see","color":"green","step":"233","foto":"foto/235.jpg","file":"file/235.htm"}
+{"_id":236,"lat":46.187674466640644,"lng":30.354881286621097,"fio":"Рогожинський Євген Олегович","nic":"Рогалик","rang":"authority","color":"blue","step":"","foto":"foto/236.jpg","file":"file/236.htm"}
+{"_id":237,"lat":46.18292062506685,"lng":30.33805847167969,"fio":"Баканча Олександр Олександрович","nic":"Бака","rang":"bandit","color":"blue","step":"236","foto":"foto/237.jpg","file":"file/237.htm"}
+{"_id":238,"lat":46.18078126223906,"lng":30.357627868652347,"fio":"Бровцин Анатолій Юрійович","nic":"Тоха","rang":"bandit","color":"blue","step":"236","foto":"foto/238.jpg","file":"file/238.htm"}
+{"_id":239,"lat":46.18149439243132,"lng":30.345954895019535,"fio":"Білоцерківський Віктор Олегович","nic":"","rang":"bandit","color":"blue","step":"236","foto":"foto/239.jpg","file":"file/239.htm"}
+{"_id":240,"lat":46.186010668851694,"lng":30.3632926940918,"fio":"Смотріченко Олег Павлович","nic":"Смотриків","rang":"bandit","color":"blue","step":"236","foto":"foto/240.png","file":"file/240.htm"}
+{"_id":241,"lat":46.191952572573186,"lng":30.35934448242188,"fio":"Клименко Олександр Семенович","nic":"Клімон","rang":"bandit","color":"blue","step":"236","foto":"foto/241.jpg","file":"file/241.htm"}
+{"_id":242,"lat":46.19409150067085,"lng":30.35110473632813,"fio":"Машковцев Олександр Юрійович","nic":"Паніка","rang":"bandit","color":"blue","step":"236","foto":"foto/242.jpg","file":"file/242.htm"}
+{"_id":243,"lat":46.19147724391319,"lng":30.343894958496097,"fio":"Пащенко Олег Володимирович","nic":"Пащя","rang":"bandit","color":"blue","step":"236","foto":"foto/243.jpg","file":"file/243.htm"}
+{"_id":244,"lat":46.18482221102762,"lng":30.34904479980469,"fio":"Савченко Євген Михайлович","nic":"Жук","rang":"bandit","color":"blue","step":"236","foto":"foto/244.jpg","file":"file/244.htm"}
+{"_id":245,"lat":46.187555625611495,"lng":30.343723297119144,"fio":"Денега Максим Володимирович","nic":"Бізон","rang":"bandit","color":"blue","step":"236","foto":"foto/245.jpg","file":"file/245.htm"}
+{"_id":246,"lat":46.19028890427803,"lng":30.349216461181644,"fio":"Слобозіян Максим Олександрович","nic":"","rang":"bandit","color":"blue","step":"236","foto":"foto/246.jpg","file":"file/246.htm"}
+{"_id":247,"lat":46.18422797248055,"lng":30.35505294799805,"fio":"Рогожинський Іван Олегович","nic":"Рогалик малий","rang":"bandit","color":"blue","step":"236","foto":"foto/247.jpg","file":"file/247.htm"}
+{"_id":248,"lat":46.18315832690901,"lng":30.360889434814457,"fio":"Задорожний Євген Миколайович","nic":"","rang":"bandit","color":"blue","step":"236","foto":"foto/248.jpg","file":"file/248.htm"}
+{"_id":249,"lat":46.19539858241681,"lng":30.35676956176758,"fio":"Олійник Роман Олегович","nic":"","rang":"bandit","color":"blue","step":"","foto":"foto/249.jpg","file":"file/249.htm"}
+{"_id":250,"lat":46.19480445820441,"lng":30.346126556396488,"fio":"Бодамшін Станіслав Рустамович","nic":"","rang":"authority","color":"blue","step":"","foto":"foto/250.jpg","file":"file/250.htm"}
+{"_id":251,"lat":46.198606742170256,"lng":30.350761413574222,"fio":"Шевченко Артем Валентинович","nic":"Тема, Мило","rang":"bandit","color":"blue","step":"","foto":"foto/251.jpg","file":"file/251.htm"}
+{"_id":252,"lat":46.19848792477871,"lng":30.345439910888675,"fio":"Бойченко Сергій Петрович","nic":"Бойчо","rang":"bandit","color":"blue","step":"","foto":"foto/252.png","file":"file/252.htm"}
+{"_id":253,"lat":46.1957550538611,"lng":30.342006683349613,"fio":"Борисов Олександр Олександрович","nic":"","rang":"bandit","color":"blue","step":"","foto":"foto/253.jpg","file":"file/253.htm"}
+{"_id":254,"lat":46.19551740648851,"lng":30.33634185791016,"fio":"Коломієць Дмитро Вячеславович","nic":"","rang":"bandit","color":"blue","step":"","foto":"foto/254.jpg","file":"file/254.htm"}
+{"_id":255,"lat":46.187912147928145,"lng":30.337886810302734,"fio":"Хортюк Сергій Ігорович","nic":"Одесса","rang":"bandit","color":"blue","step":"","foto":"foto/255.png","file":"file/255.htm"}
+{"_id":256,"lat":46.18529759724047,"lng":30.333251953125004,"fio":"Нікіфоров Денис Валерійович","nic":"","rang":"bandit","color":"blue","step":"","foto":"foto/256.jpg","file":"file/256.htm"}
+{"_id":257,"lat":46.188625185624254,"lng":30.333423614501957,"fio":"Лісничий Сергій Сергійович","nic":"","rang":"bandit","color":"blue","step":"","foto":"foto/257.jpg","file":"file/257.htm"}
+{"_id":258,"lat":46.18612951322098,"lng":30.327758789062504,"fio":"Грабан Валерій Юрійович","nic":"Гроб","rang":"bandit","color":"blue","step":"","foto":"foto/258.png","file":"file/258.htm"}
+{"_id":259,"lat":46.1895758881642,"lng":30.328960418701175,"fio":"Чернов Сергій Володимирович","nic":"Чорный","rang":"bandit","color":"blue","step":"","foto":"foto/259.jpg","file":"file/259.htm"}
+{"_id":260,"lat":46.18137553804161,"lng":30.331707000732425,"fio":"Червінський Євген Віталійович","nic":"","rang":"bandit","color":"blue","step":"","foto":"foto/260.png","file":"file/260.htm"}
+{"_id":261,"lat":46.192071404095856,"lng":30.33308029174805,"fio":"Балабан Андрій Вікторович","nic":"","rang":"bandit","color":"blue","step":"","foto":"foto/261.png","file":"file/261.htm"}
+{"_id":262,"lat":46.1366680766055,"lng":30.38200378417969,"fio":"Савченко В’ячеслав Павлович","nic":"Сава","rang":"see","color":"green","step":"4","foto":"foto/262.png","file":"file/262.htm"}
+{"_id":263,"lat":46.13381317551269,"lng":30.386638641357425,"fio":"Чебаненко Сергій Валентинович","nic":"","rang":"authority","color":"green","step":"262","foto":"foto/263.jpg","file":"file/263.htm"}
+{"_id":264,"lat":46.1322667089571,"lng":30.37874221801758,"fio":"Кучеренко Юрій Валерійович","nic":"","rang":"bandit","color":"green","step":"262","foto":"foto/264.jpg","file":"file/264.htm"}
+{"_id":265,"lat":46.13345630246953,"lng":30.372390747070316,"fio":"Петров Сергій Борисович","nic":"","rang":"bandit","color":"green","step":"262","foto":"foto/265.jpg","file":"file/265.htm"}
+{"_id":266,"lat":46.136311222062865,"lng":30.367927551269535,"fio":"Дуднік Юрій Олегович","nic":"Юрсон","rang":"bandit","color":"green","step":"262","foto":"foto/266.jpg","file":"file/266.htm"}
+{"_id":267,"lat":46.12881674246416,"lng":30.383205413818363,"fio":"Наджафов Фарид Ельнурович","nic":"","rang":"bandit","color":"green","step":"262","foto":"foto/267.jpg","file":"file/267.htm"}
+{"_id":268,"lat":46.140236494841126,"lng":30.36981582641602,"fio":"Туряб Максим Олександрович","nic":"","rang":"bookk","color":"green","step":"262","foto":"foto/268.jpg","file":"file/268.htm"}
+{"_id":269,"lat":46.142139556675836,"lng":30.374794006347656,"fio":"Антоненко Петро Олександрович","nic":"","rang":"bandit","color":"green","step":"262","foto":"foto/269.jpg","file":"file/269.htm"}
+{"_id":270,"lat":46.07049153137653,"lng":30.43865203857422,"fio":"Коляда Сергій Васильович ","nic":"Колючий","rang":"see","color":"green","step":"4","foto":"foto/270.png","file":"file/270.htm"}
+{"_id":271,"lat":46.07180154983028,"lng":30.4676628112793,"fio":"Ковальчук Олег Сергійович","nic":"Кабан","rang":"bandit","color":"green","step":"270","foto":"foto/271.jpg","file":"file/271.htm"}
+{"_id":272,"lat":46.06584666994501,"lng":30.4595947265625,"fio":"Кудрявченко Олександр Олегович","nic":"Кудря","rang":"bandit","color":"green","step":"270","foto":"foto/272.png","file":"file/272.htm"}
+{"_id":273,"lat":46.1087074661861,"lng":30.486030578613285,"fio":"Михальов Олександр Володимирович","nic":"Міхалков","rang":"authority","color":"blue","step":"","foto":"foto/273.jpg","file":"file/273.htm"}
+{"_id":274,"lat":46.11430072350646,"lng":30.50491333007813,"fio":"Сатулов Олег Федорович","nic":"Гусь","rang":"bandit","color":"blue","step":"273","foto":"foto/274.jpg","file":"file/274.htm"}
+{"_id":275,"lat":46.105375043080095,"lng":30.49839019775391,"fio":"Михальов Валерій Володимирович","nic":"","rang":"bandit","color":"blue","step":"273","foto":"foto/275.jpg","file":"file/275.htm"}
+{"_id":276,"lat":46.09442423443858,"lng":30.48568725585938,"fio":"Маслов Артур Павлович","nic":"","rang":"bandit","color":"blue","step":"","foto":"foto/276.jpg","file":"file/276.htm"}
+{"_id":277,"lat":46.479245771900416,"lng":30.215148925781254,"fio":"Кирилюк Павло Володимирович","nic":"Паша Беляевский","rang":"see","color":"green","step":"4","foto":"foto/277.png","file":"file/277.htm"}
+{"_id":278,"lat":46.497446911273606,"lng":30.19077301025391,"fio":"Свердлов Робертіно Михайлович","nic":"Тімоха","rang":"bandit","color":"blue","step":"","foto":"foto/278.jpg","file":"file/278.htm"}
+{"_id":279,"lat":"46.416","lng":"30.269","fio":"Д’яченко Юрій Юрійович","nic":"Шалабуда","rang":"bandit","color":"blue","step":"","foto":"foto/279.png","file":"file/279.htm"}
+{"_id":280,"lat":46.49862859286061,"lng":30.20347595214844,"fio":"Бакчелє Марін Кирилович","nic":"","rang":"bandit","color":"blue","step":"","foto":"foto/280.png","file":"file/280.htm"}
+{"_id":281,"lat":46.59614683179579,"lng":29.990615844726566,"fio":"Афанасьєв Сергій Володимирович","nic":"Афоня","rang":"authority","color":"blue","step":"","foto":"foto/281.png","file":"file/281.htm"}
+{"_id":282,"lat":46.607469307149415,"lng":29.99576568603516,"fio":"Ковальов Іван Миколайович","nic":"Мойша","rang":"bandit","color":"blue","step":"281","foto":"foto/282.png","file":"file/282.htm"}
+{"_id":283,"lat":46.59850587595948,"lng":30.00503540039063,"fio":"Аріфуллов Віктор Олександрович","nic":"","rang":"bandit","color":"blue","step":"281","foto":"foto/283.png","file":"file/283.htm"}
+{"_id":284,"lat":46.58387814658057,"lng":30.000915527343754,"fio":"Логачов Валерій Григорович","nic":"","rang":"bandit","color":"blue","step":"281","foto":"","file":"file/284.htm"}
+{"_id":285,"lat":46.47309855716274,"lng":30.228538513183597,"fio":"Бушан Микола Миколайович","nic":"","rang":"bandit","color":"blue","step":"","foto":"foto/285.jpg","file":"file/285.htm"}
+{"_id":286,"lat":46.47617225133411,"lng":30.19901275634766,"fio":"Хван Артем Алікович","nic":"","rang":"bandit","color":"blue","step":"","foto":"foto/286.png","file":"file/286.htm"}
+{"_id":287,"lat":45.690832836458185,"lng":28.610801696777347,"fio":"Карайсенлі Денис Михайлович","nic":"","rang":"authority","color":"green","step":"4","foto":"foto/287.jpg","file":"file/287.htm"}
+{"_id":288,"lat":45.68651588881847,"lng":28.619041442871097,"fio":"Калінич Георгій Георгійович","nic":"","rang":"bookk","color":"green","step":"9","foto":"foto/288.jpg","file":"file/288.htm"}
+{"_id":289,"lat":45.67284335658863,"lng":28.611145019531254,"fio":"Улузов Євген Степанович","nic":"","rang":"authority","color":"blue","step":"","foto":"foto/289.png","file":"file/289.htm"}
+{"_id":290,"lat":45.675002399585466,"lng":28.619728088378906,"fio":"Караджа Андрій Іванович, 01.09.1985 р.н. Кримінальна спрямованість: Караджа А.І. раніше не засуджений, але є лідером стійкої групи (переважно складається із гагаузів) - кримінальна направленість: розбійна напади на складські приміщення з метою заволодіння товаром в т.ч. отрутохімікатами/добривами .  Місце перебування: зареєстрований Одеська область, Болградський район, с. Дмитрівка, вул. Гагаріна, 30. Станом на квітень 2017 року мешкає: м. Одеса, вул. Олександра Невського, 28-Б. Засоби зв’язку: мобільний телефон: 380982447345.  Автотранспорт: Постійно змінює свій автотранспорт - елітні іномарки в т.ч. з європейськими.","nic":"","rang":"bandit","color":"blue","step":"","foto":"foto/290.png","file":"file/290.htm"}
+{"_id":291,"lat":47.092565552235705,"lng":29.842300415039066,"fio":"Хмельовський Микола Миколайович","nic":"","rang":"bandit","color":"blue","step":"","foto":"foto/291.jpg","file":"file/291.htm"}
+{"_id":292,"lat":47.078071725611395,"lng":29.84024047851563,"fio":"Найко Сергій Сергійович","nic":"","rang":"bandit","color":"blue","step":"","foto":"foto/292.jpg","file":"file/292.htm"}
+{"_id":293,"lat":47.09022810499442,"lng":29.858779907226566,"fio":"Цопа Олександр Олександрович","nic":"","rang":"bandit","color":"blue","step":"","foto":"foto/293.jpg","file":"file/293.htm"}
+{"_id":294,"lat":47.089760603235646,"lng":29.87216949462891,"fio":"Маєк Олександр Михайлович","nic":"","rang":"bandit","color":"blue","step":"","foto":"foto/294.jpg","file":"file/294.htm"}
+{"_id":295,"lat":47.07737031139491,"lng":29.858779907226566,"fio":"Бучко Руслан  Олександрович","nic":"","rang":"bandit","color":"blue","step":"","foto":"foto/295.png","file":"file/295.htm"}
+{"_id":296,"lat":47.34161450055504,"lng":29.748229980468754,"fio":"Хинку Віктор Онісімович","nic":"","rang":"bandit","color":"blue","step":"","foto":"foto/296.jpg","file":"file/296.htm"}
+{"_id":297,"lat":47.34161450055504,"lng":29.767456054687504,"fio":"Муніка Володимир Миколайович","nic":"","rang":"bandit","color":"blue","step":"","foto":"foto/297.jpg","file":"file/297.htm"}
+{"_id":298,"lat":47.31555190588103,"lng":29.761962890625004,"fio":"Кіоса Олег Севастіянович","nic":"","rang":"bandit","color":"blue","step":"","foto":"","file":"file/298.htm"}
+{"_id":299,"lat":46.98962081759436,"lng":30.45547485351563,"fio":"Топал Сергій Федорович","nic":"","rang":"bandit","color":"blue","step":"","foto":"foto/299.png","file":"file/299.htm"}
+{"_id":300,"lat":46.986810451274,"lng":30.474014282226566,"fio":"Соколов Іван Михайлович","nic":"","rang":"bandit","color":"blue","step":"","foto":"foto/300.png","file":"file/300.htm"}
+{"_id":301,"lat":46.98727885592213,"lng":30.48912048339844,"fio":"Білий Євген Леонідович","nic":"","rang":"bandit","color":"blue","step":"","foto":"foto/301.png","file":"file/301.htm"}
+{"_id":302,"lat":46.975099001075044,"lng":30.454101562500004,"fio":"Коровін Євген Петрович","nic":"Мєлкій","rang":"bandit","color":"blue","step":"","foto":"foto/302.jpg","file":"file/302.htm"}
+{"_id":303,"lat":46.973693454655916,"lng":30.495986938476566,"fio":"Димов Віталій Іванович","nic":"Дим","rang":"bandit","color":"blue","step":"","foto":"foto/303.png","file":"file/303.htm"}
+{"_id":304,"lat":46.62609906260458,"lng":30.7672119140625,"fio":"Кононов Нестор Олександрович","nic":"Нестор","rang":"authority","color":"blue","step":"","foto":"foto/304.jpg","file":"file/304.htm"}
+{"_id":305,"lat":46.56039474828995,"lng":30.78901290893555,"fio":"Шамілов Сархан Ферхад","nic":"Сархан","rang":"authority","color":"blue","step":"","foto":"foto/305.png","file":"file/305.htm"}
+{"_id":306,"lat":46.571400169530705,"lng":30.86467266082764,"fio":"Кирилов Олександр Олександрович","nic":"Сюня","rang":"bandit","color":"blue","step":"","foto":"foto/306.jpg","file":"file/306.htm"}
+{"_id":307,"lat":46.592726035334174,"lng":30.76257705688477,"fio":"Грачов Пилип Єгорович","nic":"Мадяр","rang":"authority","color":"blue","step":"","foto":"foto/307.jpg","file":"file/307.htm"}
+{"_id":308,"lat":47.544090665058015,"lng":30.745925903320316,"fio":"Філімон Сергій Павлович","nic":"Філіп","rang":"bandit","color":"blue","step":"","foto":"foto/308.png","file":"file/308.htm"}
+{"_id":309,"lat":47.54779854409147,"lng":30.75828552246094,"fio":"Рермак Валерій Валерійович","nic":"Ревера","rang":"bandit","color":"blue","step":"","foto":"foto/309.jpg","file":"file/309.htm"}
+{"_id":310,"lat":47.54293189907076,"lng":30.766868591308597,"fio":"Дроздов В’ячеслав Вікторович","nic":"Тарас","rang":"bandit","color":"blue","step":"","foto":"foto/310.png","file":"file/310.htm"}
+{"_id":311,"lat":46.2610690806619,"lng":30.429553985595707,"fio":"Журавльов Олександр Михайлович","nic":"","rang":"authority","color":"blue","step":"","foto":"foto/311.png","file":"file/311.htm"}
+{"_id":312,"lat":46.25406638814659,"lng":30.436592102050785,"fio":"Журавльов Сергій Михайлович","nic":"","rang":"bandit","color":"blue","step":"311","foto":"foto/312.jpg","file":"file/312.htm"}
+{"_id":313,"lat":46.26213720938177,"lng":30.436077117919925,"fio":"Фалібога Володимир Васильович","nic":"Філін","rang":"authority","color":"blue","step":"","foto":"foto/313.png","file":"file/313.htm"}
+{"_id":314,"lat":"46.257","lng":"30.443","fio":"Торосян Армен Манвелович","nic":"","rang":"bandit","color":"blue","step":"","foto":"foto/314.jpg","file":"file/314.htm"}
+{"_id":315,"lat":46.26795221179669,"lng":30.429039001464847,"fio":"Скріпченко Аркадій Анатолійович","nic":"","rang":"bandit","color":"blue","step":"","foto":"foto/315.jpg","file":"file/315.htm"}
+{"_id":316,"lat":46.24706280133725,"lng":30.439853668212894,"fio":"Тринчук Костянтин Петрович","nic":"","rang":"bandit","color":"blue","step":"","foto":"foto/316.jpg","file":"file/316.htm"}
+{"_id":317,"lat":46.251336282699675,"lng":30.446891784667972,"fio":"Паршенко Ігор Олександрович","nic":"","rang":"bandit","color":"blue","step":"","foto":"foto/317.jpg","file":"file/317.htm"}
+{"_id":318,"lat":47.53574697823915,"lng":29.46258544921875,"fio":"Гончарук Андрій Віталійович","nic":"Рижий","rang":"authority","color":"blue","step":"","foto":"foto/318.jpg","file":"file/318.htm"}
+{"_id":319,"lat":47.53806480221706,"lng":29.45365905761719,"fio":"Кожухар Анатолій Леонідович, ","nic":"","rang":"authority","color":"blue","step":"","foto":"foto/319.jpg","file":"file/319.htm"}
+{"_id":320,"lat":47.53157463688237,"lng":29.452629089355472,"fio":"Барбулат Сергій Валерійович","nic":"Барбос","rang":"authority","color":"blue","step":"","foto":"foto/320.jpg","file":"file/320.htm"}
+{"_id":321,"lat":47.54304777682209,"lng":29.462070465087894,"fio":"Красніцький Олег Степанович","nic":"","rang":"bandit","color":"blue","step":"","foto":"foto/321.png","file":"file/321.htm"}
+{"_id":322,"lat":47.53910778958013,"lng":29.468250274658203,"fio":"Мнацаканян Едік Юрійович","nic":"","rang":"bandit","color":"blue","step":"","foto":"foto/322.png","file":"file/322.htm"}
+{"_id":323,"lat":47.72512192516998,"lng":29.54360961914063,"fio":"Карауш Михайло Федорович","nic":"Карабеш","rang":"see","color":"green","step":"4","foto":"foto/323.jpg","file":"file/323.htm"}
+{"_id":324,"lat":47.72535287380613,"lng":29.528675079345707,"fio":"Карауш Михайло Михайлович","nic":"","rang":"bandit","color":"green","step":"323","foto":"foto/324.png","file":"file/324.htm"}
+{"_id":325,"lat":47.728816980473695,"lng":29.559745788574222,"fio":"Тоічкін Олексій Віталійович","nic":"Алік","rang":"bandit","color":"green","step":"323","foto":"foto/325.png","file":"file/325.htm"}
+{"_id":326,"lat":47.737014448413966,"lng":29.559402465820316,"fio":"Покотіло Сергій В’ячеславович","nic":"Заєць","rang":"bandit","color":"green","step":"323","foto":"foto/326.png","file":"file/326.htm"}
+{"_id":327,"lat":47.73147263956074,"lng":29.522666931152347,"fio":"Мукан Сергій Володимирович","nic":"","rang":"bandit","color":"green","step":"323","foto":"foto/327.png","file":"file/327.htm"}
+{"_id":328,"lat":47.73262723170871,"lng":29.533653259277347,"fio":"Бубнов Олександр Вікторович","nic":"","rang":"bandit","color":"green","step":"323","foto":"foto/328.png","file":"file/328.htm"}
+{"_id":329,"lat":47.73331997471025,"lng":29.54206466674805,"fio":"Терпьяк Юрій Ростиславович","nic":"","rang":"bandit","color":"green","step":"323","foto":"foto/329.png","file":"file/329.htm"}
+{"_id":330,"lat":47.73770713305151,"lng":29.524040222167972,"fio":"Риженков Костянтин Юрійович","nic":"","color":"green","step":"323","foto":"foto/330.png","file":"file/330.htm"}
+{"_id":331,"lat":47.73274268951562,"lng":29.550991058349613,"fio":"Хаперський Максим Анатолійович","nic":"","color":"green","step":"323","foto":"foto/331.png","file":"file/331.htm"}
+{"_id":332,"lat":47.736783551486944,"lng":29.544639587402347,"fio":"Чертков Василь Сергійович","nic":"","rang":"bandit","color":"green","step":"323","foto":"foto/332.png","file":"file/332.htm"}
+{"_id":333,"lat":47.7420939217573,"lng":29.55184936523438,"fio":"Іванов Володимир Олександрович","nic":"","rang":"bandit","color":"blue","step":"323","foto":"foto/333.png","file":"file/333.htm"}
+{"_id":334,"lat":47.73932336136857,"lng":29.53536987304688,"fio":"Рябовой Сергій Леонідович","nic":"","rang":"bandit","color":"green","step":"323","foto":"foto/334.png","file":"file/334.htm"}
+{"_id":335,"lat":47.74440260945156,"lng":29.543952941894535,"fio":"Данилов Володимир Володимирович","nic":"","rang":"bandit","color":"green","step":"323","foto":"foto/335.png","file":"file/335.htm"}
+{"_id":336,"lat":47.74878883398739,"lng":29.515628814697266,"fio":"Максимов Максим Сергійович","nic":"","rang":"see","color":"blue","step":"","foto":"foto/336.jpg","file":"file/336.htm"}
+{"_id":337,"lat":47.74497976537667,"lng":29.52335357666016,"fio":"Дмітрієв Артур Миколайович","nic":"","rang":"bandit","color":"blue","step":"336","foto":"foto/337.jpg","file":"file/337.htm"}
+{"_id":338,"lat":47.754097979680026,"lng":29.521980285644535,"fio":"Гайдученко Андрій Петрович","nic":"Гайдук, Собака","rang":"bandit","color":"blue","step":"336","foto":"foto/338.jpg","file":"file/338.htm"}
+{"_id":339,"lat":47.74971220258033,"lng":29.524211883544925,"fio":"Шиманський Олександр Володимирович","nic":"Шаман","rang":"bandit","color":"blue","step":"336","foto":"foto/339.png","file":"file/339.htm"}
+{"_id":340,"lat":45.469521384817995,"lng":28.249282836914066,"fio":"Різєа (Попеску) Олег Євгенович","nic":"Песа","rang":"see","color":"blue","step":"","foto":"foto/340.png","file":"file/340.htm"}
+{"_id":341,"lat":45.47144749852001,"lng":28.266792297363285,"fio":"Розумний Володимир Григорович","nic":"","rang":"authority","color":"blue","step":"","foto":"foto/341.png","file":"file/341.htm"}
+{"_id":342,"lat":45.47818837812613,"lng":28.27142715454102,"fio":"Варивода Віталій Михайлович","nic":"","rang":"authority","color":"blue","step":"341","foto":"foto/342.png","file":"file/342.htm"}
+{"_id":343,"lat":45.463622252143225,"lng":28.2594108581543,"fio":"Паніогло Василь Григорович","nic":"Паня","rang":"see","color":"blue","step":"340","foto":"foto/343.jpg","file":"file/343.htm"}
+{"_id":344,"lat":45.45988982896943,"lng":28.270740509033207,"fio":"Запорожець Юрій Степанович","nic":"","rang":"bookk","color":"blue","step":"343","foto":"","file":""}
