@@ -121,13 +121,15 @@ var flag = false;
                 document.querySelector('#frame').setAttribute('src', '${element.file}')
                 " >справка</span>   #${element._id}
                 </div>`;
-
-                var marker = DG.marker([element.lat, element.lng],{icon: MyIcon})
-                    marker.bindPopup(popur)
-                    marker.bindLabel(`от ${heder_boss}`)
-                    marker.addTo(map);
-                    // markers.addLayer(marker);
-
+                
+                
+                       var marker = DG.marker([element.lat, element.lng],{icon: MyIcon})
+                        marker.bindPopup(popur)
+                        marker.addTo(map)
+                        if (heder_boss != '') {
+                            marker.bindLabel(`от ${heder_boss}`)
+                        }
+                    
                 //  if ( element.step != "") {
 
                 //     db.findOne({_id: Number(element.step)}, function (err, geoStep) {
