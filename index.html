@@ -17,7 +17,6 @@
   #frame{
     border: 0;
   }
-
       @font-face {
   font-family: 'icomoon';
   src:  url('fonts/icomoon.eot?tmpuc');
@@ -28,7 +27,6 @@
   font-weight: normal;
   font-style: normal;
 }
-
 [class^="icon-"], [class*=" icon-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'icomoon' !important;
@@ -38,12 +36,10 @@
   font-variant: normal;
   text-transform: none;
   line-height: 1;
-
   /* Better Font Rendering =========== */
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-
 .icon-arrow-right:before {
   content: "\ea34";
   position: absolute;
@@ -54,7 +50,6 @@
 .icon-arrow-left:before {
   content: "\ea38";
 }
-
 #modal_form {
   width: 720px;
   height: 500px; /* Рaзмеры дoлжны быть фиксирoвaны */
@@ -96,13 +91,68 @@
   cursor:pointer;
   display:none; /* в oбычнoм сoстoянии её нет) */
 }
-
+.fixet{
+  height: 185px;
+  width: 200px;
+  border: 1px solid black;
+  z-index: 2;
+  position: fixed;
+  background-color: #fff;
+  left: 10px;
+  top: 10px;
+  padding: 5px;
+  font-weight: bold;
+}
     </style>
 
   </head>
   <body>
 
     <div class="container-fluid">
+      <div class="fixet">
+          <div class="form-check">
+            <input class="form-check-input" type="radio" name="fixet_group" id="fixet_antic" value="vor">
+            <label class="form-check-label" for="fixet_antic">
+                Антимос
+            </label>
+          </div>
+          <div class="form-check">
+            <input class="form-check-input" type="radio" name="fixet_group" id="fixet_omar" value="vor">
+            <label class="form-check-label" for="fixet_omar" style="color:#c506e2">
+                Бакаев Омар
+            </label>
+          </div>
+          <div class="form-check">
+            <input class="form-check-input" type="radio" name="fixet_group" id="fixet_mindia" value="vor">
+            <label class="form-check-label" for="fixet_mindia" style="color:red">
+                Горадзе Міндія
+            </label>
+          </div>
+          <div class="form-check">
+            <input class="form-check-input" type="radio" name="fixet_group" id="fixet_sheremet" value="vor">
+            <label class="form-check-label" for="fixet_sheremet" style="color:#12cc5f">
+                Валерий Шеремет
+            </label>
+          </div>
+          <div class="form-check">
+            <input class="form-check-input" type="radio" name="fixet_group" id="fixet_dribnoi" value="vor">
+            <label class="form-check-label" for="fixet_dribnoi" style="color:gray">
+                Владимир Дрибной
+            </label>
+          </div>
+          <div class="form-check">
+            <input class="form-check-input" type="radio" name="fixet_group" id="fixet_guli" value="vor">
+            <label class="form-check-label" for="fixet_guli" style="color:violet">
+                Гули
+            </label>
+          </div>
+          <div class="form-check">
+            <input class="form-check-input" type="radio" name="fixet_group" id="fixet_crime" value="vor">
+            <label class="form-check-label" for="fixet_crime" style="color:blue">
+                Крим. элимент
+            </label>
+          </div>
+        </div>
       <div class="row">
       <div id="map"  style="width:100%;height:100vh">
       </div>

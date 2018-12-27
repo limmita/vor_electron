@@ -18,11 +18,6 @@ db.find({}, function (err, docs) {
 var marker, lat, lng, pathFoto, pathFoto_name, pathFile, pathFile_name, status_rang, popur, heder_boss;
 var flag = false;
 
-/* добавил для плагина*/
-
-                // загрузка кода модуля
- // DG.plugin('https://2gis.github.io/mapsapi/vendors/Leaflet.markerCluster/leaflet.markercluster-src.js');
-
 
 /*-------------------------------------------------------------------*/
 
@@ -37,9 +32,6 @@ var flag = false;
     });
 
 
-    /*------------------------------------------*/
-    // var markers = DG.markerClusterGroup(); /* добавил для плагина*/
-    /*------------------------------------------*/
 
 
 
@@ -130,24 +122,9 @@ var flag = false;
                             marker.bindLabel(`от ${heder_boss}`)
                         }
                     
-                //  if ( element.step != "") {
-
-                //     db.findOne({_id: Number(element.step)}, function (err, geoStep) {
-
-                //         console.log(geoStep);
-                //         poligon = DG.polyline([[element.lat, element.lng], [geoStep.lat, geoStep.lng]],
-                //                             {
-                //                             color: element.color,
-                //                             weight: 3
-                //                                 }).addTo(map);
-                //         });
-                //     //  setTimeout(function() {
-                //     //     poligon.remove(map)
-                //     // }, 5000);
-
-                // }
+            
             })
-            // map.addLayer(markers);
+  
 
 
 
@@ -261,7 +238,118 @@ $('.sing').on('click', function(event) {
 
 
     db.insert(obj_Man);
-    // location.reload();
+   
 
 
 })
+
+
+
+
+
+
+
+
+
+
+
+
+fixet_antic.onclick = function(){ display('black'); };
+fixet_omar.onclick = function(){ display('purple'); };
+fixet_mindia.onclick = function(){ display('red'); };
+fixet_sheremet.onclick = function(){ display('green'); };
+fixet_dribnoi.onclick = function(){ display('gray'); };
+fixet_guli.onclick = function(){ display('violet'); };
+fixet_crime.onclick = function(){ display('blue'); };
+
+function display(color_id) {
+    map.remove();
+    map = DG.map('map', {
+        'center': [46.841, 30.800],
+        'zoom': 8,
+        fullscreenControl: false,
+        zoomControl: false,
+        minZoom: 8
+    });
+   db.find({color:color_id}, function (err, doc2) {
+            doc2.forEach(function(element, index) {
+//                 /**
+//                 отображаем на карте иконки
+//                 */
+                let icSize = [25, 25]
+//                 
+                switch (element.rang) {
+                    case "vor":
+                    iconURL = "assets/icons/"+element.color+"/crown.svg"
+                    status_rang = "Вор в законе"
+                    icSize = [60, 60]
+                    heder_boss =''
+                    break;
+                    case "see":
+                    iconURL = "assets/icons/"+element.color+"/visibility-button.svg"
+                    status_rang = "Смотрящий"
+                    break;
+                    case "posit":
+                    iconURL = "assets/icons/"+element.color+"/hacker.svg"
+                    status_rang = "Положенец"
+                    break;
+                    case "bookk":
+                    iconURL = "assets/icons/"+element.color+"/man-user.svg"
+                    status_rang = "Держит общак"
+                    break;
+                    case "authority":
+                    iconURL = "assets/icons/"+element.color+"/man-user.svg"
+                    status_rang = "Авторитет"
+                    break;
+                    case "bandit":
+                    iconURL = "assets/icons/"+element.color+"/man-user.svg"
+                    status_rang = "Бандит"
+                    break;
+                }
+
+
+                var MyIcon = DG.icon({
+                    iconUrl: iconURL,
+                    iconSize: icSize
+                })
+
+                popur = `<div class="main">
+                <center><h4>${status_rang}</h4>
+                <img src=${element.foto} class="foto">
+                <h4>${element.fio}</h4>
+                <h5>Кличка: ${element.nic}</h5></center>
+                <span class="ref" onclick="
+                document.querySelector('#overlay').style.display = 'block'
+                document.querySelector('#modal_form').style.top = '50%';
+                document.querySelector('#modal_form').style.display = 'block'
+                document.querySelector('#frame').setAttribute('src', '${element.file}')
+                " >справка</span>   #${element._id}
+                </div>`;
+                
+                
+                       var marker = DG.marker([element.lat, element.lng],{icon: MyIcon})
+                        marker.bindPopup(popur)
+                        marker.addTo(map)
+
+                    
+                 if ( element.step != "") {
+
+                    db.findOne({_id: Number(element.step)}, function (err, geoStep) {
+
+                        poligon = DG.polyline([[element.lat, element.lng], [geoStep.lat, geoStep.lng]],
+                                            {
+                                            color: element.color,
+                                            weight: 1
+                                                }).addTo(map);
+                        });
+
+
+                }
+            })
+
+
+
+    });
+
+}
+
