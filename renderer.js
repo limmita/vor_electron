@@ -32,10 +32,22 @@ var flag = false;
     });
 
 
+$('.fixet_right .form-check').on('click',function() {
 
+    map.remove();
+    map = DG.map('map', {
+        'center': [this.dataset.lng, this.dataset.lat],
+        'zoom': this.dataset.zoom,
+        fullscreenControl: false,
+        zoomControl: false,
+        minZoom: 8
+    });
+    fulIcon();
+})
 
+fulIcon();
 
-
+function fulIcon() {
     db.find({}, function (err, docs) {
 
             docs.forEach(function(element, index) {
@@ -129,7 +141,7 @@ var flag = false;
 
 
     });
-
+}
 
 map.on('click', function (event) {
     $('.btn').removeAttr("disabled")
@@ -261,6 +273,7 @@ fixet_sheremet.onclick = function(){ display('green'); };
 fixet_dribnoi.onclick = function(){ display('gray'); };
 fixet_guli.onclick = function(){ display('violet'); };
 fixet_crime.onclick = function(){ display('blue'); };
+fixet_full.onclick = function(){ display('full'); };
 
 function display(color_id) {
     map.remove();
@@ -271,6 +284,10 @@ function display(color_id) {
         zoomControl: false,
         minZoom: 8
     });
+    if (color_id == "full") {
+        fulIcon();
+        return;
+    }
    db.find({color:color_id}, function (err, doc2) {
             doc2.forEach(function(element, index) {
 //                 /**

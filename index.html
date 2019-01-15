@@ -91,15 +91,20 @@
   cursor:pointer;
   display:none; /* в oбычнoм сoстoянии её нет) */
 }
+.fixet_right{
+  right: 10px;
+  top: 10px;
+}
 .fixet{
-  height: 185px;
-  width: 200px;
+  left: 10px;
+  top: 10px;
+}
+.fixet, .fixet_right{
+  /*width: 200px;*/
   border: 1px solid black;
   z-index: 2;
   position: fixed;
   background-color: #fff;
-  left: 10px;
-  top: 10px;
   padding: 5px;
   font-weight: bold;
 }
@@ -109,49 +114,178 @@
   <body>
 
     <div class="container-fluid">
+        <!-- ------------------------------------------------ -->
+        <!-- Прижатый к левой стороне список авторитетов -->
+        <!-- ------------------------------------------------ -->
       <div class="fixet">
           <div class="form-check">
-            <input class="form-check-input" type="radio" name="fixet_group" id="fixet_antic" value="vor">
+            <input class="form-check-input" type="radio" name="fixet_group" id="fixet_antic" >
             <label class="form-check-label" for="fixet_antic">
                 Антимос
             </label>
           </div>
           <div class="form-check">
-            <input class="form-check-input" type="radio" name="fixet_group" id="fixet_omar" value="vor">
+            <input class="form-check-input" type="radio" name="fixet_group" id="fixet_omar" >
             <label class="form-check-label" for="fixet_omar" style="color:#c506e2">
                 Бакаев Омар
             </label>
           </div>
           <div class="form-check">
-            <input class="form-check-input" type="radio" name="fixet_group" id="fixet_mindia" value="vor">
+            <input class="form-check-input" type="radio" name="fixet_group" id="fixet_mindia" >
             <label class="form-check-label" for="fixet_mindia" style="color:red">
                 Горадзе Міндія
             </label>
           </div>
           <div class="form-check">
-            <input class="form-check-input" type="radio" name="fixet_group" id="fixet_sheremet" value="vor">
+            <input class="form-check-input" type="radio" name="fixet_group" id="fixet_sheremet" >
             <label class="form-check-label" for="fixet_sheremet" style="color:#12cc5f">
                 Валерий Шеремет
             </label>
           </div>
           <div class="form-check">
-            <input class="form-check-input" type="radio" name="fixet_group" id="fixet_dribnoi" value="vor">
+            <input class="form-check-input" type="radio" name="fixet_group" id="fixet_dribnoi" >
             <label class="form-check-label" for="fixet_dribnoi" style="color:gray">
                 Владимир Дрибной
             </label>
           </div>
           <div class="form-check">
-            <input class="form-check-input" type="radio" name="fixet_group" id="fixet_guli" value="vor">
+            <input class="form-check-input" type="radio" name="fixet_group" id="fixet_guli">
             <label class="form-check-label" for="fixet_guli" style="color:violet">
                 Гули
             </label>
           </div>
           <div class="form-check">
-            <input class="form-check-input" type="radio" name="fixet_group" id="fixet_crime" value="vor">
+            <input class="form-check-input" type="radio" name="fixet_group" id="fixet_crime">
             <label class="form-check-label" for="fixet_crime" style="color:blue">
                 Крим. элимент
             </label>
           </div>
+          <div class="form-check">
+            <input class="form-check-input" type="radio" name="fixet_group" id="fixet_full">
+            <label class="form-check-label" for="fixet_full" style="color:black">
+                Весь криминал
+            </label>
+          </div>
+        </div>
+        <!-- ------------------------------------------------ -->
+        <!-- Прижатый к правой стороне список городов -->
+        <!-- ------------------------------------------------ -->
+        <div class="fixet_right">
+          <div class="form-check" data-lat = "29.955" data-lng="47.727" data-zoom="13">
+            <input class="form-check-input" type="radio" name="town_group" id="fixet_anan">
+            <label class="form-check-label" for="fixet_anan">
+                Ананьєв
+            </label>
+          </div>
+          <div class="form-check" data-lat = "29.616566" data-lng="47.935092" data-zoom="13">
+            <input class="form-check-input" type="radio" name="town_group" id="fixet_balta">
+            <label class="form-check-label" for="fixet_balta">
+                Балта
+            </label>
+          </div>
+          <div class="form-check" data-lat = "29.150848" data-lng="48.094477" data-zoom="13">
+            <input class="form-check-input" type="radio" name="town_group" id="fixet_kodima">
+            <label class="form-check-label" for="fixet_kodima">
+                Кодима
+            </label>
+          </div>
+          <div class="form-check" data-lat = "30.266" data-lng="47.837" data-zoom="13">
+            <input class="form-check-input" type="radio" name="town_group" id="fixet_lub">
+            <label class="form-check-label" for="fixet_lub">
+                Любашівка
+            </label>
+          </div>
+          <div class="form-check" data-lat = "29.459" data-lng="47.540" data-zoom="13">
+            <input class="form-check-input" type="radio" name="town_group" id="fixet_okni">
+            <label class="form-check-label" for="fixet_okni">
+                Окни
+            </label>
+          </div>
+          <div class="form-check" data-lat = "29.529191" data-lng="47.751329" data-zoom="13">
+            <input class="form-check-input" type="radio" name="town_group" id="fixet_podolsk">
+            <label class="form-check-label" for="fixet_podolsk">
+                Подольск
+            </label>
+          </div>
+          <div class="form-check" data-lat = "29.762" data-lng="47.332" data-zoom="13">
+            <input class="form-check-input" type="radio" name="town_group" id="fixet_zaxar">
+            <label class="form-check-label" for="fixet_zaxar">
+                Захарівка
+            </label>
+          </div>
+          <div class="form-check" data-lat = "29.855" data-lng="47.083" data-zoom="13">
+            <input class="form-check-input" type="radio" name="town_group" id="fixet_vmix">
+            <label class="form-check-label" for="fixet_vmix">
+                Велика Михайлівка
+            </label>
+          </div>
+          <div class="form-check" data-lat = "30.471" data-lng="46.979" data-zoom="13">
+            <input class="form-check-input" type="radio" name="town_group" id="fixet_ivan">
+            <label class="form-check-label" for="fixet_ivan">
+                Іванівка
+            </label>
+          </div>
+          <div class="form-check" data-lat = "30.071" data-lng="46.853" data-zoom="13">
+            <input class="form-check-input" type="radio" name="town_group" id="fixet_roz">
+            <label class="form-check-label" for="fixet_roz">
+                Розді́льна
+            </label>
+          </div>
+          <div class="form-check" data-lat = "30.097" data-lng="46.517" data-zoom="12">
+            <input class="form-check-input" type="radio" name="town_group" id="fixet_bel">
+            <label class="form-check-label" for="fixet_bel">
+                Біляївка
+            </label>
+          </div>
+          <div class="form-check" data-lat = "30.656" data-lng="46.298" data-zoom="13">
+            <input class="form-check-input" type="radio" name="town_group" id="fixet_blacksea">
+            <label class="form-check-label" for="fixet_blacksea">
+                Чорноморськ
+            </label>
+          </div>
+          <div class="form-check" data-lat = "30.437" data-lng="46.256" data-zoom="13">
+            <input class="form-check-input" type="radio" name="town_group" id="fixet_ovid">
+            <label class="form-check-label" for="fixet_ovid">
+                Овідіополь
+            </label>
+          </div>
+          <div class="form-check" data-lat = "30.379" data-lng="46.126" data-zoom="12">
+            <input class="form-check-input" type="radio" name="town_group" id="fixet_bdn">
+            <label class="form-check-label" for="fixet_bdn">
+                Б-Дністровський
+            </label>
+          </div>
+          <div class="form-check" data-lat = "29.623" data-lng="45.829" data-zoom="13">
+            <input class="form-check-input" type="radio" name="town_group" id="fixet_tata">
+            <label class="form-check-label" for="fixet_tata">
+                Татарбунари
+            </label>
+          </div>
+          <div class="form-check" data-lat = "29.427" data-lng="45.996" data-zoom="13">
+            <input class="form-check-input" type="radio" name="town_group" id="fixet_ar">
+            <label class="form-check-label" for="fixet_ar">
+                Арциз
+            </label>
+          </div>
+          <div class="form-check" data-lat = "28.615" data-lng="45.678" data-zoom="13">
+            <input class="form-check-input" type="radio" name="town_group" id="fixet_bolg">
+            <label class="form-check-label" for="fixet_bolg">
+                Болград
+            </label>
+          </div>
+          <div class="form-check" data-lat = "28.839" data-lng="45.346" data-zoom="13">
+            <input class="form-check-input" type="radio" name="town_group" id="fixet_iz">
+            <label class="form-check-label" for="fixet_iz">
+                Ізмаїл
+            </label>
+          </div>
+          <div class="form-check" data-lat = "28.273" data-lng="45.464" data-zoom="13">
+            <input class="form-check-input" type="radio" name="town_group" id="fixet_reni">
+            <label class="form-check-label" for="fixet_reni">
+                Рені
+            </label>
+          </div>
+          
         </div>
       <div class="row">
       <div id="map"  style="width:100%;height:100vh">
